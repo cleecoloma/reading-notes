@@ -9,10 +9,10 @@ I few things I learned during class 01 class:
    1. How many do you need to create the largest heading? **ONE**
    2. How many do you need to create the smallest heading? **SIX**
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
-   * ** ** - bolds the word/phrase inside this symbol
-   * * * - italicize the word/phrase inside this symbol
+   * \** ** - bolds the word/phrase inside this symbol
+   * \* * - italicize the word/phrase inside this symbol
 5. How do you create a link with Markdown?
-   * [text](link) - Inside the square bracket will the alternate text and then inside the parenthesis will be the link.
+   * \[text](link) - Inside the square bracket will the text and then inside the parenthesis will be the link.
 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
    * *, +, and -
 7. Publish GitHub pages.
