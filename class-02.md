@@ -13,7 +13,7 @@
 * mkdir - creates a directory/folder
 * touch - creates a file
 
-##Explain the following commands:
+## Explain the following commands:
 1. cd projects - change directory to projects
 2. mkdir new-project - creates new directory named new-project
 3. touch new-project/newfile.md - creates new file named newfile.md under new-project folder
