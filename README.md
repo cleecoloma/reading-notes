@@ -4,7 +4,7 @@ To me, growth mindset is the ability to adapt to new environment and to be willi
 ## Three Things I Do To Keep Myself In A Growth Mindset
 * Always learning new skills
 * Learn from mistakes
-* Aspire to be a better version of yourself
+* Aspire to be a better version of myself
 
 ---
 
