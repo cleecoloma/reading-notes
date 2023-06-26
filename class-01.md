@@ -1,6 +1,7 @@
-# Class 01
+# Class 01 Summary
 
-What I learned in class 01.
-
+I few things I learned during class 01 class:
 1. What is markdown?
-2. Types of learning.
+   * Markdown is a markup language similar to HTML
+2. Publish GitHub pages.
+   * Create a GitHub account. Create a new repository. Create a new markdown/.md file. Go to Settings and Pages and deploy the branch where the markdown file is
