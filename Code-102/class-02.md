@@ -1,6 +1,7 @@
 # Class 02 Summary
+> Here's a brief summary in a question and answer layout of what I learned during class 02.
 
-## Four important features to look for in a text editor
+## What are four important features to look for in a text editor?
 1. Code completion
 2. Syntax highlighting
 3. A nice variety of themes

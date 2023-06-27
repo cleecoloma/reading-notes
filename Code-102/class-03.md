@@ -1,4 +1,5 @@
 # Class 03 Summary
+> Here's a brief summary in a question and answer layout of what I learned during class 03.
 
 1. What is Version Control?
 * Version control is the ability to track changes and ability to go back to previous versions.

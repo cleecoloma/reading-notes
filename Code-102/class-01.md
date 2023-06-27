@@ -1,6 +1,6 @@
 # Class 01 Summary
+> Here's a brief summary in a question and answer layout of what I learned during class 01.
 
-I few things I learned during class 01 class:
 1. What is Markdown?
    * Markdown is a markup language similar to HTML
 2. Why use Markdown?
