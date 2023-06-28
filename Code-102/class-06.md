@@ -10,3 +10,11 @@
 * The assignment operator in JavaScript is "=". It assigns a value to variable. It is not a "equal to" operator.
 4. What is information received from the user called?
 * Its called input. There are two ways to receive an input: prompt and confirm.
+
+> Additional Notes
+1. What are the 3 important basic data types?
+* Numbers
+* Strings (text characters)
+* Boolean (true or false)
+
+2. Conditional Statements: if, if/else, if/else if
