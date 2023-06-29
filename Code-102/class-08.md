@@ -10,5 +10,3 @@
 * For Loop stops executing when a specified condition evaluates to false.
 4. How many times will a while loop execute?
 * Unlimited until condition is met.
-
-> Additional Notes
