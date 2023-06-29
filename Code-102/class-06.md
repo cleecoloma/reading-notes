@@ -1,5 +1,5 @@
 # Class 06 Summary
-
+## Dynamic web pages with JavaScript
 > Here's a brief summary in a question and answer layout of what I learned during class 06.
 
 1. What are variables in JavaScript?

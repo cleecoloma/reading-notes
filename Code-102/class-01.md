@@ -1,4 +1,5 @@
 # Class 01 Summary
+# Learning Markdown
 > Here's a brief summary in a question and answer layout of what I learned during class 01.
 
 1. What is Markdown?

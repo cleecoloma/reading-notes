@@ -1,5 +1,5 @@
 # Class 05 Summary
-
+## Design web pages with CSS
 > Here's a brief summary in a question and answer layout of what I learned during class 05.
 
 1. What is the purpose of CSS?

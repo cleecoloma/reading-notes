@@ -1,4 +1,5 @@
 # Class 04 Summary
+## Structure web pages with HTML
 > Here's a brief summary in a question and answer layout of what I learned during class 04.
 
 1. What is HTML and why do we use it?

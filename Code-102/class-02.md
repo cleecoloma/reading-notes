@@ -1,4 +1,5 @@
 # Class 02 Summary
+## The Coder's Computer
 > Here's a brief summary in a question and answer layout of what I learned during class 02.
 
 ## What are four important features to look for in a text editor?
