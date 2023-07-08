@@ -1,4 +1,5 @@
 # Class 07 Summary
+## Code 102 - Intro to Software Development
 ## Programming with JavaScript
 > Here's a brief summary in a question and answer layout of what I learned during class 07.
 
