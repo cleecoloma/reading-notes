@@ -1,4 +1,5 @@
 # Class 02 Summary
+## Code 102 - Intro to Software Development
 ## The Coder's Computer
 > Here's a brief summary in a question and answer layout of what I learned during class 02.
 
