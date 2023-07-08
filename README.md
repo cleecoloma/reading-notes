@@ -1,11 +1,16 @@
-## Code Fellows - Code 102 and 201 reading notes
-> This repository contains reading notes for Code 102 and 201 courses at Code Fellows
+# Reading Notes
+> This repository contains reading notes for Code 102, 201, 301, and 401 courses at Code Fellows
+
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## Code 301 - Intermediate Software Development
+## Code 401 - Advanced Software Development
 
 ### Table of Contents
 
-| Code 102      | Code 201 |
-| ----------- | ----------- |
-| [Class-01](./Code-102/class-01.md) | [Class-01](./Code-201/class-01.md) |
+| Code 102 | Code 201 | Code 301 | Code 401
+| ----------- | ----------- | ----------- | ----------- | 
+| [Class-01](./Code-102/class-01.md) | [Class-01](./Code-201/class-01.md) |  [Class-01](./Code-301/class-01.md) |  [Class-01](./Code-401/class-01.md) | 
 | [Class-02](./Code-102/class-02.md) | [Class-02](./Code-201/class-02.md) |
 | [Class-03](./Code-102/class-03.md) | [Class-03](./Code-201/class-03.md) |
 | [Class-04](./Code-102/class-04.md) | [Class-04](./Code-201/class-04.md) |
