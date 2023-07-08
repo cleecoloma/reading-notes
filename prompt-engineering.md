@@ -1,7 +1,8 @@
 # Prompt Engineering
 ## On this markdown notes, I utilized Google Bard to explain a topic.
 
-> Questions
+
+### Questions 
 1. What does Puget Sound Naval Shipyard do?
   * Puget Sound Naval Shipyard (PSNS) is a United States Navy shipyard located in Bremerton, Washington. It is the Pacific Northwest's largest naval shore facility and one of Washington state's largest industrial installations. PSNS provides the Navy with maintenance, modernization, and technical and logistics support, and employs 14,000 people.
   * Some of the specific services that PSNS provides include:
