@@ -1,4 +1,5 @@
 # Class 06 Summary
+## Code 102 - Intro to Software Development
 ## Dynamic web pages with JavaScript
 > Here's a brief summary in a question and answer layout of what I learned during class 06.
 
