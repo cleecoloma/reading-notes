@@ -1,20 +1,25 @@
 # Class 01 Summarry
 ## Code 201 - Foundations of Software Development
 
-
 ### How the Web Works?
 1. Compose a short poem describing how HTTP sends data between computers.
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
 3. How can you find images to add to a Website?
+  > There are websites where images listed are free to use for personal and even commercial use. Unsplash is usually my go-to website.
 4. How do you create a String vs a Number in JavaScript?
   > A string in JavaScript are characters inside a single or double quotes. A number in JavaScript is a numerical character not inside a single or double quotes.
 5. What is a Variable and why are they important in JavaScript?
+  > A variable is   
 
 ### Getting started with HTML.
 1. What is an HTML attribute?
 2. Describe the Anatomy of an HTMl element.
-  >  
-3. What is the Difference between <article> and <section> element tags?
+  >  There are three parts of a HTML element.
+  > * Opening tag
+  > * Content
+  > * Closing tag
+3. What is the difference between <article> and <section> element tags?
+  > 
 4. What Elements does a “typical” website include?
   > The elements that a typical website includes head, body, header, main, and footer.
 5. How does metadata influence Search Engine Optimization?
@@ -28,6 +33,7 @@
 ### Semantics
 1. Why should you use an <h1> element over a <span> element to display a top level heading?
 2. What are the benefits of using semantic tags in our HTML?
+  > Using semantic tags explains the purpose of the element tag and they help with Search Engine Optimization (SEO).
 
 ### What is Javascript?
 1. Describe 2 things that require JavaScript in the Browser?
