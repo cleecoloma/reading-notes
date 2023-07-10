@@ -18,6 +18,7 @@
 
 ### Getting started with HTML.
 1. What is an HTML attribute?
+  > HTML attributes provide additional information regarding HTML elements.
 2. Describe the Anatomy of an HTMl element.
   >  There are three parts of a HTML element.
   > * Opening tag
