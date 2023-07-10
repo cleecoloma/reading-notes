@@ -53,3 +53,6 @@
   > There are two ways to add JavaScript to an HTML document. 
   > * First is inline where the script is on the HTML document. 
   > * Second is external where the script is a separate file from the HTML document.
+
+## Things I want to know more about 
+I want to learn more about the relationship between semantics and accessibilities regarding assistive technologies e.g. screen readers.
