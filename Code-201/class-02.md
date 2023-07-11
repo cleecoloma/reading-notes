@@ -1,6 +1,8 @@
 # Class 02 Summarry
 ## Code 201 - Foundations of Software Development
 
+> These topic relates because they are the basic foundations of software development.
+
 ### HTML Text Fundamentals
 1. Why is it important to use semantic elements in our HTML?
   > It is important to use semantic elements in our HTML because it helps the search engine and other use devices to determine the importance and context of a web page. It makes web pages more readable, accessible, and improves its ranking on search engines.
@@ -60,3 +62,4 @@
 ### Things I want to know more about
 1. Using logical operators inside functions
 2. Actual use of git branches in a group project
+
