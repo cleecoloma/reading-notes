@@ -33,14 +33,29 @@
     padding: 5px;
   }`
 
-### Making Decisions In Your Code - Conditionals.
+### Learn JS
 1. What data type is a sequence of text enclosed in single quote marks?
-  > 
+  > string
 2. List 4 types of JavaScript operators.
+  > * Assignment
+  > * Comparison
+  > * Arithmetic
+  > * Logical
 3. Describe a real world Problem you could solve with a Function.
+  > A calculator. You can make a calculator using functions.
 
-### Things I want to know more about
+### Making Decisions In Your Code - Conditionals.
 1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
-2. What is the use of an else if?
+  > condition and true
+2. What is the use of an `else if`?
+  > We use an `else if` if there are more than 2 choices/outcomes.
 3. List 3 different types of comparison operators.
-4. What is the difference between the logical operator && and ||?
+  > * `==` - equal to
+  > * `===` - equal value and equal type
+  > * `!==` - not equal value or not equal type
+4. What is the difference between the logical operator `&&` and `||`?
+  > * `&&` means and
+  > * `||` means or
+  
+### Things I want to know more about
+1. 
