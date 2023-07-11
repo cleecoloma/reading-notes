@@ -51,11 +51,11 @@
   > `\\For this example, the person would wear a sweater if the temperature is greater than 70.`
 6. Give an example of when a `Loop` is useful in JavaScript.
   > A `loop` is useful when you want to run a code over and over until a condition is met. See example of code below:
-  > `let i=1`
-    `for (i=0; i<3; i++) {`
-    `console.log(i)`
-    `}`
-    `\\this loop will run 3 times (i.e when i=0, i=1, and i=3)`
+  > `let i=1
+    for (i=0; i<3; i++) {
+    console.log(i)
+    }
+    \\this loop will run 3 times (i.e when i=0, i=1, and i=3)`
 
 ### Things I want to know more about
 * Nothing for now.
