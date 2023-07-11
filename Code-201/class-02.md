@@ -14,14 +14,19 @@
 
 ### How CSS is Structured
 1. What are ways we can apply CSS to our HTML?
-  > 
+  > We can apply CSS to our HTML in three ways:
+    > * Inline - by using the style attribute inside HTML elements
+    > * Internal - by using a <style> element in the <head> section
+    > * External - by using a <link> element to link to an external CSS file
 2. Why should we avoid using inline styles?
-  > 
+  > We should avoid using inline styles because they clutter up the HTML and, as a result, making it difficult to read and debug it.
 3. Review the block of code below and answer the following questions:
   1. What is representing the selector?
-
+    > h2
   2. Which components are the CSS declarations?
+    > The components inside a CSS declarations are property and a value.
   3. Which components are considered properties?
+    > For the example below, the properties are color and padding.
 
   `h2 {
     color: black;
