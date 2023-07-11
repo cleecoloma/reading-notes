@@ -16,7 +16,7 @@
 ### The Box Model
 1. Describe the CSS properties of `margin` and `padding` as characters in a story. What is their role in a story titled: “The Box Model”?
   > "The Box Model" is a story set in Webville, where Margin and Padding, two characters, maintain harmony in the town's layout. Margin creates space between elements, while Padding provides comfort and support. They collaborate to accommodate new elements, prevent chaos, and ensure visual order. Their unity brings balance to Webville's web design, resulting in a flourishing and organized landscape for visitors to enjoy.
-  > Utilize ChatGPT to create this story.
+  > * Utilized ChatGPT to create this story.
 2. List and describe the four parts of an HTML elements box as referred to by the `box model`.
   > * Content
   > * Padding
@@ -28,7 +28,7 @@
   > Any data types
 2. Is the `people` array a valid JavaScript array? If so, how can I access the values stored? If not, why?
   > Yes, it is a valid JavaScript array. You can access the values stored in an array by using index number.
-`const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
+  > `const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
 3. List five shorthand operators for assignment in javascript and describe what they do.
 4. Read the code below and evaluate the last `expression` and explain what the result would be and why.
   > `let a = 10;`
