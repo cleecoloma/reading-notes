@@ -5,7 +5,7 @@
 
 ### Ordered and Unordered lists
 1. When should you use an `unordered list` in your HTML document?
-  > YOu use it when the items does not need numerical ordering or order is meaningless.
+  > You use it when the items does not need numerical ordering or order is meaningless.
 2. How do you change the `bullet style` of unordered list items?
   > You can use the `type` attribute on the unordered list item tag to change the style.
 3. When should you use an `ordered list` vs an `unorder list` in your HTML document?
