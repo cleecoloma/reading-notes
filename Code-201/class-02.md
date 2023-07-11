@@ -56,6 +56,3 @@
 4. What is the difference between the logical operator `&&` and `||`?
   > * `&&` means and
   > * `||` means or
-  
-### Things I want to know more about
-1. 
