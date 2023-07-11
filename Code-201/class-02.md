@@ -56,3 +56,7 @@
 4. What is the difference between the logical operator `&&` and `||`?
   > * `&&` means and
   > * `||` means or
+
+### Things I want to know more about
+1. Using logical operators inside functions
+2. Actual use of git branches in a group project
