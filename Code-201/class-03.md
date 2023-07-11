@@ -28,7 +28,9 @@
   > Any data types
 2. Is the `people` array a valid JavaScript array? If so, how can I access the values stored? If not, why?
   > Yes, it is a valid JavaScript array. You can access the values stored in an array by using index number.
-  > `const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
+    ```
+    const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+    ```
 3. List five shorthand operators for assignment in javascript and describe what they do.
   > * a+=b means a equals to a plus b
   > * a-=b means a equals to a minus b
@@ -36,11 +38,13 @@
   > * a*=b means a equals to a multiply b
   > * a%=b means a equals to the remainder of a divide b
 4. Read the code below and evaluate the last `expression` and explain what the result would be and why.
-  > `let a = 10;`
-  > `let b = 'dog';`
-  > `let c = false;`
-  > `// evaluate this`
-  > `(a + c) + b;`
+    ```
+    let a = 10;
+    let b = 'dog';
+    let c = false;
+    // evaluate this
+    (a + c) + b;
+    ```
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
   > A real world example of a conditional statement would be when deciding if you need to wear a sweater or not. See example of code below:
     ```
@@ -53,7 +57,7 @@
     ```
 6. Give an example of when a `Loop` is useful in JavaScript.
   > A `loop` is useful when you want to run a code over and over until a condition is met. See example of code below:
-  > ```
+    ```
     let i=1
     for (i=0; i<3; i++) {
     console.log(i)
