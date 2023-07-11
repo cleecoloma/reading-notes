@@ -38,6 +38,7 @@
   > * a*=b means a equals to a multiply b
   > * a%=b means a equals to the remainder of a divide b
 4. Read the code below and evaluate the last `expression` and explain what the result would be and why.
+  > The solution for the last expression will be `10dog`. JavaScript is a dynamically typed. If theres a difference in data types and there's a string type. It will concatenate them and the result will be a string.
     ```
     let a = 10;
     let b = 'dog';
