@@ -30,6 +30,11 @@
   > Yes, it is a valid JavaScript array. You can access the values stored in an array by using index number.
   > `const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
 3. List five shorthand operators for assignment in javascript and describe what they do.
+  > * a+=b means a equals to a plus b
+  > * a-=b means a equals to a minus b
+  > * a/=b means a equals to a divide b
+  > * a*=b means a equals to a multiply b
+  > * a%=b means a equals to the remainder of a divide b
 4. Read the code below and evaluate the last `expression` and explain what the result would be and why.
   > `let a = 10;`
   > `let b = 'dog';`
