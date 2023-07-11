@@ -1,7 +1,7 @@
 # Class 02 Summarry
 ## Code 201 - Foundations of Software Development
 
-> These topic relates because they are the basic foundations of software development.
+> These topics relates because they are the basic foundations of software development.
 
 ### HTML Text Fundamentals
 1. Why is it important to use semantic elements in our HTML?

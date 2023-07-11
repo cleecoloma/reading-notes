@@ -1,7 +1,7 @@
 # Class 03 Summarry
 ## Code 201 - Foundations of Software Development
 
-> 
+> These topics relates because arrays and the box model will be helpful when creating a nice looking functional websites.
 
 ### Ordered and Unordered lists
 1. When should you use an `unordered list` in your HTML document?
@@ -57,3 +57,5 @@
   > `}`
   > `\\this loop will run 3 times (i.e when i=0, i=1, and i=3)`
 
+### Things I want to know more about
+* Nothing for now.
