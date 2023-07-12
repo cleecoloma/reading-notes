@@ -1,2 +1,2 @@
-# Class 12 Summarry
+# Class 12 Summary
 ## Code 201 - Foundations of Software Development

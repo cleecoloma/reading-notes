@@ -1,4 +1,4 @@
-# Class 03 Summarry
+# Class 03 Summary
 ## Code 201 - Foundations of Software Development
 
 > These topics relates because arrays and the box model will be helpful when creating a nice looking functional websites.

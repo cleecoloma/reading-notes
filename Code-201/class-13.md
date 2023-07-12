@@ -1,2 +1,2 @@
-# Class 13 Summarry
+# Class 13 Summary
 ## Code 201 - Foundations of Software Development

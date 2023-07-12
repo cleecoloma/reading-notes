@@ -1,4 +1,4 @@
-# Class 04 Summarry
+# Class 04 Summary
 ## Code 201 - Foundations of Software Development
 
 > These topics relates because HTML links, JS functions, and CSS layout are essential to great responsive and functional web applications

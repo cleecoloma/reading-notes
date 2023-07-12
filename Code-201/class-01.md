@@ -1,4 +1,4 @@
-# Class 01 Summarry
+# Class 01 Summary
 ## Code 201 - Foundations of Software Development
 
 ### How the Web Works?

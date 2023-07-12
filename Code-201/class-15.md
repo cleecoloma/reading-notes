@@ -1,2 +1,2 @@
-# Class 15 Summarry
+# Class 15 Summary
 ## Code 201 - Foundations of Software Development

@@ -1,4 +1,4 @@
-# Class 02 Summarry
+# Class 02 Summary
 ## Code 201 - Foundations of Software Development
 
 > These topics relates because they are the basic foundations of software development.

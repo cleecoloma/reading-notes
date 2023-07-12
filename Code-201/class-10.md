@@ -1,2 +1,2 @@
-# Class 10 Summarry
+# Class 10 Summary
 ## Code 201 - Foundations of Software Development

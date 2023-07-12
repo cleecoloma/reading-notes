@@ -1,2 +1,2 @@
-# Class 14 Summarry
+# Class 14 Summary
 ## Code 201 - Foundations of Software Development

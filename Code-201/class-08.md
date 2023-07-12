@@ -1,2 +1,2 @@
-# Class 08 Summarry
+# Class 08 Summary
 ## Code 201 - Foundations of Software Development
