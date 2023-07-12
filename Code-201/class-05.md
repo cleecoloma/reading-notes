@@ -30,5 +30,5 @@
   > You can use padding or margin.
 
 ### Things I want to know more about
-> * I want to learn about setting a new font family for the web page.
-> * I want to know more about responsive web design and how padding and margin relates to it.
+  > * I want to learn about setting a new font family for the web page.
+  > * I want to know more about responsive web design and how padding and margin relates to it.
