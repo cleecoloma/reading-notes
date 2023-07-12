@@ -18,7 +18,7 @@
 
 ### Using Color in CSS. Styling HTML Text Elements
 1. Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.
-  > 
+  > Foreground color would be applied to the content while background color would be the background of that content.
 2. Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
   > I would use `color` to change text color of the content and `background-color` to change the background color of elements.
 3. What should you consider when choosing fonts for an HTML document?
@@ -30,4 +30,5 @@
   > You can use padding or margin.
 
 ### Things I want to know more about
-> * 
+> * I want to learn about setting a new font family for the web page.
+> * I want to know more about responsive web design and how padding and margin relates to it.
