@@ -1,18 +1,18 @@
 # Class 06 Summary
 ## Code 201 - Foundations of Software Development
 
-> These topics relates
+> These topics relates because JavaScript make our web applications interactive
 
 ### JavaScript Object Basics
 1. How would you describe an object to a non-technical friend you grew up with?
-  > 
+  > I would describe it as a
 2. What are some advantages to creating object literals?
   > 
 3. How do objects differ from arrays?
-  > 
+  > Object is a pairing system that utilizes keys that corresponds to values while arrays utilizes a index system.
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
   > 
-5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?
+5. Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?
   > 
   ```
   const dog = {
@@ -27,7 +27,7 @@
 
 ### Introduction to the DOM
 1. What is the DOM?
-  > 
+  > DOM stand for Document Object Model. It is a way to interact with the elements on a web page usually utilizing JavaScript.
 2. Briefly describe the relationship between the DOM and JavaScript.
   > 
 
