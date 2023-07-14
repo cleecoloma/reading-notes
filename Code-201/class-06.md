@@ -12,9 +12,11 @@
 3. How do objects differ from arrays?
   > Object is a pairing system that utilizes keys that corresponds to values while arrays utilizes a index system.
 4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.
-  > 
+  > An example would be when there's a `space` in the object key. Let's look at the code below:
+  > `const myObject = {'favorite color': 'blue'}`
+  > `myObject.'favorite color'` would give a syntax error while `myObject['favorite color']` would work.
 5. Evaluate the code below. What does the term `this` refer to and what is the advantage to using `this`?
-  > 
+  > It refers to `dog`. One advantage is when you have to create more than one object literal. Using `this` will enable someone to use the same method definition for the objects created.
   ```
   const dog = {
     name: 'Spot',
