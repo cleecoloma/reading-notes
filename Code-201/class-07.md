@@ -14,6 +14,9 @@
   > 2. Tables produce tag soup.
   > 3. Tables are not automatically responsive.
 2. List and describe 3 different semantic HTML elements used in an HTML `<table>`.
+  > 1. Table header `<th>` - This element allows the table to be more accessible by associating each header with the data in the same row or column.
+  > 2. Table row `<tr>` - This element defines a row of cells in a table.
+  > 3. Table cell `<td>` - This element definces a cell of a table that contains data.
 
 ### Introducing Constructors
 1. What is a constructor and what are some advantages to using it?
