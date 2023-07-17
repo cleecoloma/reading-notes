@@ -23,6 +23,7 @@
   > * A constructor is special function that creates and initializes a object instance of a class.
   > * Advantages - create more than one object from a single definition and changes can be made to the created object without affecting the other instances.
 2. How does the term `this` differ when used in an object literal versus when used in a constructor?
+  > The term `this` used in an object literal refers to the object that is being defined while `this` used in a constructor refers to the specific instance of the object that is being created.
 
 ### Object Prototypes Using A Constructor
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
