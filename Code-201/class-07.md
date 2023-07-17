@@ -9,7 +9,10 @@
 
 ### HTML Table Basics
 1. Why should tables not be used for page layouts?
-  > 
+  > The main reasons why table should not be used for page layouts because of the following:
+  > 1. Layout tables reduce accessibility for visually impaired users.
+  > 2. Tables produce tag soup.
+  > 3. Tables are not automatically responsive.
 2. List and describe 3 different semantic HTML elements used in an HTML `<table>`.
 
 ### Introducing Constructors
