@@ -16,7 +16,7 @@
 2. List and describe 3 different semantic HTML elements used in an HTML `<table>`.
   > 1. Table header `<th>` - This element allows the table to be more accessible by associating each header with the data in the same row or column.
   > 2. Table row `<tr>` - This element defines a row of cells in a table.
-  > 3. Table cell `<td>` - This element definces a cell of a table that contains data.
+  > 3. Table cell `<td>` - This element defines a cell of a table that contains data.
 
 ### Introducing Constructors
 1. What is a constructor and what are some advantages to using it?
@@ -31,7 +31,7 @@
   > For my mechanical engineering job, I support repair of multiple different types of ships (e.g. 688, 726, and 21 class submarines). Prototypes would be specifications and manual written to repair these different types of ships. Inheritance would be the components that are similar in these ships. For example, a valve in a 688 class submarine could be the same valve in a 726 class submarine.
 
 ### Things I want to learn more about
-
+  > None yet.
 
 ### Things I utilized for these reading
   > * Google
