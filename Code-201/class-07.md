@@ -28,3 +28,11 @@
 ### Object Prototypes Using A Constructor
 1. Explain prototypes and inheritance via an analogy from your previous work experience.
   * NOTE: This is a very common front end developer interview question.
+  > For my mechanical engineering job, I support repair of multiple different types of ships (e.g. 688, 726, and 21 class submarines). Prototypes would be specifications and manual written to repair these different types of ships. Inheritance would be the components that are similar in these ships. For example, a valve in a 688 class submarine could be the same valve in a 726 class submarine.
+
+### Things I want to learn more about
+
+
+### Things I utilized for these reading
+  > * Google
+  > * ChatGPT
