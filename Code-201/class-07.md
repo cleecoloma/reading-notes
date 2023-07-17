@@ -20,6 +20,8 @@
 
 ### Introducing Constructors
 1. What is a constructor and what are some advantages to using it?
+  > * A constructor is special function that creates and initializes a object instance of a class.
+  > * Advantages - create more than one object from a single definition and changes can be made to the created object without affecting the other instances.
 2. How does the term `this` differ when used in an object literal versus when used in a constructor?
 
 ### Object Prototypes Using A Constructor
