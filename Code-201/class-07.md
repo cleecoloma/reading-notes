@@ -1,7 +1,7 @@
 # Class 07 Summary
 ## Code 201 - Foundations of Software Development
 
-> These topics
+> These topics relates because the DOM, HTML table basics, and Constructors are integral part of web applications.
 
 ### Domain Modeling
 1. Explain why we need domain modeling.
