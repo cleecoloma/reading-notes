@@ -22,7 +22,7 @@
 
 
 ### Things I want to know more about
-> * The differences between grid and flexbox
+> * The differences between grid and flexbox and how they different when used for responsiveness for web apps.
 
 ### What I used for this reading
 > * Google
