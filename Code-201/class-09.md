@@ -28,5 +28,6 @@
 4. What is the difference between event bubbling and event capturing?
   > * Event bubbling is how the browser handles events targeted at nested elements.
   > * Event capturing works in the reverse order as event bubbling. The event fires first on the least nested element.
+
 ### Things I want to know more about
-  > None yet.
+> None yet.
