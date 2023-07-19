@@ -1,7 +1,7 @@
 # Class 09 Summary
 ## Code 201 - Foundations of Software Development
 
-> These topics relates because ...
+> These topics relates because when we create web apps, we will likely utilize forms to get data from users.
 
 ### HTML Forms - Your First Web Form. How to Structure A Web Form
   1. Why are forms so important in web development?
