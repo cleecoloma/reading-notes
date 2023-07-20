@@ -12,7 +12,7 @@
   > Make required fields obvious
 3. List 5 form elements and explain their importance.
   > 1. `<button>` - defines a clickable button.
-  > 2. `<label` - defines a label for several form elements. It is useful for screen-reader users because the screen-reader will read the label out loud.
+  > 2. `<label>` - defines a label for several form elements. It is useful for screen-reader users because the screen-reader will read the label out loud.
   > 3. `<input>` - is the most used from element. It can be displayed in several ways such as button, image, checkbox, etc.
   > 4. `<textarea>` - defines a multi-line input field (a text area). It has attributes such as `rows` and `cols` to define the size of the text area.
   > 5. `<legend>` - defines a caption for the `<fieldset>` element
