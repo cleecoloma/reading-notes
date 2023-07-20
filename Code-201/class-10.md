@@ -21,4 +21,4 @@
   > Call stack is a way to track what section of the code is getting executed and helps debug the code by tracking the sequence where an error likely occurred.
 
 ### Things I want to learn more about.
-1. I know there a JavaScript try catch statement where it lets you proceed with the remainder of the code even if there's an error inside it.
+> I know there a JavaScript try catch statement where it lets you proceed with the remainder of the code even if there's an error inside it.
