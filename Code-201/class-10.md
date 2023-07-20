@@ -14,5 +14,9 @@
 
 ### The JavaScript Debugger.
 1. How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
+  > JavaScript Debugger tool is 
 2. Define what a breakpoint is.
 3. What is the call stack?
+
+### Things I want to learn more about.
+1. I know there a JavaScript try catch statement where it lets you proceed with the remainder of the code even if there's an error inside it.
