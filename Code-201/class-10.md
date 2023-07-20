@@ -14,9 +14,11 @@
 
 ### The JavaScript Debugger.
 1. How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
-  > JavaScript Debugger tool is 
+  > JavaScript Debugger tool is a step by step tool that allows you to visually check the your code while its running.
 2. Define what a breakpoint is.
+  > Breakpoint is telling Javascript to pause at a specific line. It's like a stop sign for a car but for your code.
 3. What is the call stack?
+  > Call stack is a way to track what section of the code is getting executed and helps debug the code by tracking the sequence where an error likely occurred.
 
 ### Things I want to learn more about.
 1. I know there a JavaScript try catch statement where it lets you proceed with the remainder of the code even if there's an error inside it.
