@@ -10,6 +10,7 @@
 > * `src` contains the path to the video similar to an `img` element.
 > * `controls` is a way for the watcher to be able to control the video/audio usually to stop, start, and adjust the volume.
 3. Why is it important to have **fallback content** inside the `<video>` element?
+> * It is important to have **fallback content** inside the `<video` element because this content will be displayed if the browser accessing the page doesn't support `<video>` element which will allow the content provider to provide a fallback for older browsers.
 4. Write a very short story where `<audio>` and `<video>` are characters.
 > In the digital realm of HTMLville, Audio and Video, two inseparable friends, brought enchantment to the web. With Audio's magical voice and Video's captivating visuals, they turned ordinary content into immersive experiences. From mesmerizing melodies to vivid storytelling, their collaboration united people, inspired learning, and connected distant souls in virtual conferences. Their legend spread, making them icons of creativity and communication, leaving a trail of awe and happiness wherever they roamed, forever weaving magic into the digital tapestry of HTMLville.
 
@@ -23,7 +24,8 @@
 
 ### Responsive Images
 1. Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
-> 
+> * Faster loading times - using responsive images ensures that users receive appropriately sized images based on their device's screen size.
+> * SEO benefits - search engines consider page load times and mobile-friendliness as factors in their ranking algorithms.
 2. Define the following `<img>` attributes `srcset` and `sizes`. Write an example of how they are used.
 > * `srcset` -  is a set of images that will allow the browser to choose between and what size each image is.
 > * `sizes` - is a set of media conditions like screen widths and indicates what image size would be best to choose.
