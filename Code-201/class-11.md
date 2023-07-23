@@ -1,7 +1,7 @@
 # Class 11 Summary
 ## Code 201 - Foundations of Software Development
 
->  These topics relates because...
+>  These topics relates because video content, audio content, and responsive images are the top ways I utilize/consume the content the web. I'm thinking its the same for other people.
 
 ### Video and Audio Content
 1. Explain how the ability to use video and audio on the web has evolved since the early 2000s.
