@@ -1,7 +1,7 @@
 # Class 12 Summary
 ## Code 201 - Foundations of Software Development
 
->  These topics relates because Chart.js allows developers to visually display data which will be easier for the users to digest.
+> These topics relates because Chart.js allows developers to visually display data which will be easier for the users to digest.
 
 ### JavaScript Canvas
 1. What does the `<canvas>` allow a developer to achieve?
