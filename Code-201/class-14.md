@@ -5,6 +5,7 @@
 
 ### CSS Transforms
 1. What does a CSS transform allow the developer to do to an element?
+> CSS transform allows the developer to apply visual changes to an element on a web page. For example, it can change the element's position, size, and orientation without altering the HTML document
 2. Provide an example of a transform and how you could see that being used on a website.
 
 ### CSS Transitions and Animations
@@ -18,4 +19,4 @@
 ### Things I want to learn more about.
 > 
 
-##### Utilized 
+##### Utilized ChatGPT for this reading notes.
