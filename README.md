@@ -27,7 +27,7 @@
 | | [Class-15](./Code-201/class-15.md) |
 
 [Prompt Engineering](prompt-engineering.md)
-
+[Psychological Safety](psychological-safety.md)
 
 ---
 
