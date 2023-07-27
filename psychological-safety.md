@@ -11,4 +11,7 @@
 3. What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
 > The main impact that the teams with a high degree of psychological safety is that they drive high productivity where team members can provide their best efforts on whatever problem that team faces. Thus, this leads to success in both company and its team members.
 
+### Things I want to know more about
+> None for this topic
+
 ##### Utilized ChatGPT for this reading assignment.
