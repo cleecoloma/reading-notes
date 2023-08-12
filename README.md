@@ -28,7 +28,8 @@
 
 * [Prompt Engineering](prompt-engineering.md)
 * [Psychological Safety](psychological-safety.md)
-* [Dive Into React](dive-into-react)
+* [Dive Into React](dive-into-react.md)
+
 ---
 
 ### About Me
