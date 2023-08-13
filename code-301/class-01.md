@@ -25,10 +25,11 @@
 
 ### What is Props and How to Use it in React
 1. What is “props” short for?
+> In React, **props** is short for properties
 2. How are props used in React?
+> **Props** are used in React to pass data from one component to another.
 3. What is the flow of props?
+> The flow of **props** is uni-directional flow. This means one way from parent to child.
 
 ### Things I want to learn more about.
-> I want to learn more about React hooks and how I can utilize them for my personal projects
-
-##### Utilized ChatGPT for this reading notes.
+> I want to learn more about React hooks and how I can utilize them for my personal projects.
