@@ -1,11 +1,13 @@
 # Class 02 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because React is currently one of the top libraries to use especially for front-end web development.
+> These topics relates because React lifecycle...
 
 ### React Lifecycle
 1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+> `render` will run first before `componentDidMount`.
 2. What is the very first thing to happen in the lifecycle of React?
+> The very first thing that happens in a React lifecycles is Mounting. This is when an instance of a component is being created and inserted into DOM.
 3. Put the following things in the order that they happen: `componentDidMount`, `render`, `constructor`, `componentWillUnmount`, `React Updates`
 4. What does `componentDidMount` do?
 
@@ -17,3 +19,6 @@
 
 ### Things I want to learn more about.
 > I want to learn more about React hooks and how I can utilize them for my personal projects.
+
+
+###### I utilized ChatGPT to answer some of these questions.
