@@ -9,7 +9,13 @@
 2. What is the very first thing to happen in the lifecycle of React?
 > The very first thing that happens in a React lifecycles is Mounting. This is when an instance of a component is being created and inserted into DOM.
 3. Put the following things in the order that they happen: `componentDidMount`, `render`, `constructor`, `componentWillUnmount`, `React Updates`
+> 1. `constructor`
+> 2. `render`
+> 3. `componentDidMount`
+> 4. `React Updates`
+> 5. `componentWillUnmount`
 4. What does `componentDidMount` do?
+> `componentDidMount` allows you to perform side effects, such as data fetching or setting up subscriptions.
 
 ### React State vs Props
 1. hat types of things can you pass in the props?
