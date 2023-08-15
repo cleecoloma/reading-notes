@@ -15,10 +15,37 @@
 
 ### The Spread Operator
 1. What is the spread operator?
+> The spread operator allows developers to expand elements from one array, object, or iterable into another.
 2. List 4 things that the spread operator can do.
+> 1. Combine arrays
+> 2. Copy arrays and objects
+> 3. Add elements to arrays
+> 4. Merge objects
 3. Give an example of using the spread operator to combine two arrays.
+```
+const array1 = [1, 2, 3];
+const array2 = [4, 5, 6];
+
+const combinedArray = [...array1, ...array2];
+console.log(combinedArray); // Output: [1, 2, 3, 4, 5, 6]
+```
 4. Give an example of using the spread operator to add a new item to an array.
+```
+const originalArray = [1, 2, 3];
+const newItem = 4;
+
+const newArray = [...originalArray, newItem];
+console.log(newArray); // Output: [1, 2, 3, 4]
+```
 5. Give an example of using the spread operator to combine two objects into one.
+```
+const object1 = { a: 1, b: 2 };
+const object2 = { c: 3, d: 4 };
+
+const combinedObject = { ...object1, ...object2 };
+console.log(combinedObject);
+// Output: { a: 1, b: 2, c: 3, d: 4 }
+```
 
 ### How to Pass Functions Between Components
 1. In the video, what is the first step that the developer does to pass functions between components?
