@@ -1,7 +1,7 @@
 # Class 03 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because ...
+> These topics relates because list/keys, spread operator, and passing functions between components are vital when utilizing React in our web applications.
 
 ### React Docs - list and keys
 1. What does .map() return?
@@ -27,7 +27,7 @@
 4. How does the child component invoke a method that was passed to it from a parent component?
 
 ### Things I want to learn more about.
-> I want to learn more about...
+> None.
 
 
 ###### I utilized ChatGPT to answer some of these questions.
