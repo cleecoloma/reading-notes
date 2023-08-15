@@ -5,9 +5,13 @@
 
 ### React Docs - list and keys
 1. What does .map() return?
+> .map() returns a new array that contains the results of applying the provided function to each element of the original array
 2. If I want to loop through an array and display each value in JSX, how do I do that in React?
+> In React, you loop through an array and display each value in JSX by using .map() while using a `key`to provide a unique identifier for each items created.
 3. Each list item needs a unique ____.
+> key
 4. What is the purpose of a key?
+> The purpose of a key is to provide a unique identifier and also help with performance optimization.
 
 ### The Spread Operator
 1. What is the spread operator?
@@ -26,4 +30,4 @@
 > I want to learn more about...
 
 
-###### I utilized...
+###### I utilized ChatGPT to answer some of these questions.
