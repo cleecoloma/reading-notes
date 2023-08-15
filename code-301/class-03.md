@@ -49,9 +49,13 @@ console.log(combinedObject);
 
 ### How to Pass Functions Between Components
 1. In the video, what is the first step that the developer does to pass functions between components?
+> The first step that the developer does to pass functions between components is by defining the functions in the parent component.
 2. In your own words, what does the `increment` function do?
+> The `increment` function increase a number by a value.
 3. How can you pass a method from a parent component into a child component?
+> First, define a method in the parent component. Then, pass the method as a prop to the child component.
 4. How does the child component invoke a method that was passed to it from a parent component?
+> The child component invoke a method that was passed to it from a parent component by calling it in the child component. For example, `this.props.speak()`.
 
 ### Things I want to learn more about.
 > None.
