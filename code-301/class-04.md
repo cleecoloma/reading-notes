@@ -1,7 +1,7 @@
 # Class 04 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because...
+> These topics relates because forms are vital when getting information from the web application user.
 
 ### React Docs - Forms
 1. What is a ‘Controlled Component’?
@@ -13,14 +13,17 @@
 
 ### The Conditional (Ternary) Operator Explained
 1. Why would we use a ternary operator?
-> 
+> We use a ternary operator to shorten if statements into one line of code.
 2. Rewrite the following statement using a ternary statement:
 ```javascript
+//old
 if(x===y){
   console.log(true);
 } else {
   console.log(false);
 }
+//new
+(x===y) ? console.log(true) : console.log(false);
 ```
 
 ### Things I want to learn more about.
