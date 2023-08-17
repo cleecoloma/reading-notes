@@ -1,10 +1,11 @@
 # Class 05 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because...
+> These topics relates because understanding the best flow when creating in React application is important.
 
 ### React Docs - Thinking in React
 1. What is the `single responsibility principle` and how does it apply to components?
+> `Single responsibility principle` is a component that only does one thing.
 2. What does it mean to build a ‘static’ version of your application?
 > Building a 'static' version of the application means creating the UI first without the interactivity.
 3. Once you have a static application, what do you need to add?
@@ -18,8 +19,17 @@
 
 ### Higher-Order Functions
 1. What is a “higher-order function”?
+> A higher-order function is a function that takes a function as an argument and/or returns a function.
 2. Explore the `greaterThan` function as defined in the reading. In your own words, what is line 2 of this function doing?
+```javascript
+function greaterThan(n) {
+  return m => m > n;
+}
+```
+> In line 2 above, the function is returning a function that takes `m` as an parameter.
 3. Explain how either `map` or `reduce` operates, with regards to higher-order functions.
+> * `Map` - applies function to each element in an array that returns a new array with those new elements.
+> * `Reduce` - takes in a callback function as a parameter which iterates through each element using that callback function.
 
 ### Things I want to learn more about.
 > None.
