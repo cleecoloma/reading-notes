@@ -5,7 +5,9 @@
 
 ### What Google Learned From Its Quest to Build the Perfect Team
 1. To what extent did psychological safety impact your previous work experience?
+> Psychological safety impact my previous work experience by creating an environment where everyone's input was heard. Overall, my team communicated very well and it impacted our deliverables favorably.
 2. How does this article inform your approach to working with others moving forward?
+> Always be self aware and address any concerns before it gets any worse.
 
 ### How I explained REST to my brother
 1. Who is Roy Fielding?
