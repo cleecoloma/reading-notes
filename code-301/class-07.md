@@ -1,4 +1,4 @@
-# Class 06 Summary
+# Class 07 Summary
 ## Code 301 - Intermediate Software Development
 
 > These topics relates because, if I wanted to create a full-stack web application using JavaScript, Node.js will need to be used to accomplish it.
@@ -38,5 +38,6 @@
 
 ### Things I want to learn more about.
 > None.
+
 
 ###### I also utilized ChatGPT with some of the questions.
