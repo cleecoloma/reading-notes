@@ -1,7 +1,7 @@
 # Class 06 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because REST will be a big part when we build backend aspect of our labs.
+> These topics relates because...
 
 ### What Google Learned From Its Quest to Build the Perfect Team
 1. To what extent did psychological safety impact your previous work experience?
