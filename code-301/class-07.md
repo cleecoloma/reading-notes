@@ -1,7 +1,7 @@
 # Class 06 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because...
+> These topics relates because, if I wanted to create a full-stack web application using JavaScript, Node.js will need to be used to accomplish it.
 
 ### An introduction to Node.js on sitepoint.com
 1. What is node.js?
@@ -23,11 +23,20 @@
 
 ### 6 Reasons for Pair Programming
 1. What are the 6 reasons for pair programming?
+> 1. Greater efficiency
+> 2. Engaged collaboration
+> 3. Learning from fellow students
+> 4. Social skills
+> 5. Job interview readiness
+> 6. Work environment readiness
 2. In your experience, which of these reasons have you found most beneficial?
+> I found that learning from fellow and students and engaged collaboration are the reasons why pair programming are beneficial.
 3. How does pair programming work?
+> There are two roles: a driver and a navigator.
+> * The driver is the programmer/coder that is in charge of typing/hands on the keyboard.
+> * The navigator uses their words to guide the driver but does not provide direct input to the computer. Navigator thinks about the big picture and can use their computer to look up solutions and documentation.
 
 ### Things I want to learn more about.
 > None.
-
 
 ###### I also utilized ChatGPT with some of the questions.
