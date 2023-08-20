@@ -27,15 +27,19 @@
 
 ### Geocoding API
 1. Did you get your API key?
+> Yes
 
 ### Weather Bit API
 1. Did you get your API key?
+> Yes
 
 ### Yelp API Docs
 1. Did you get your API key?
+> Yes
 
 ### The Movie DB API Docs
 1. Did you get your API key?
+> Yes
 
 ### Things I want to learn more about.
 > None.
