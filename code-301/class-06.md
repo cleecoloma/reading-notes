@@ -15,10 +15,15 @@
 2. Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?
 > The techniques that we used in this class so far won't work because our code is local to our computer and don't have a way to communicate with other computers/servers.
 3. What is the HTTP protocol that Fielding and his friends created?
+> Fielding and his friends introduced the concept of REST (Representational State Transfer).
 4. What does a `GET` do?
+> `GET` is the method to retrieve information from the server. It does not affect on the server. 
 5. What does a `POST` do?
+> `POST` is the method to send the data to the server to create or update a resource. It can affect data on the server.
 6. What does `PUT` do?
+> `PUT` is the method used to update an existing resource on the server. It can affect data on the server by updating entire resource with new data provided by the client.
 7. What does `PATCH` do?
+> `PATCH` is the method similar to `PUT` but it is used to make partial updates in lieu of replacing the entire resource.
 
 ### Geocoding API
 1. Did you get your API key?
