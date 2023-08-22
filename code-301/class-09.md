@@ -7,9 +7,16 @@
 1. What is functional programming?
 > Functional programming is a programming paradigm - a style of building the structures and elements of computer programs - that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
 2. What is a pure function and how do we know if something is a pure function?
+> Pure function returns the same result if given the same arguments (also referred as deterministic) and this function does not cause any observable side effects.
 3. What are the benefits of a pure function?
+> Some benefits are the following:
+> * Determinism - no randomness or uncertainty involved.
+> * Reproducibility - output match the expected results.
+> * Modularity - they don't depend on external factors or mutable state. Thus, they are easier to use to create more complex functions.
 4. What is immutability?
+> Immutability refers to the property of an object or data structure that cannot be modified after it is created.
 5. What is Referential transparency?
+> Referential transparency refers to the property of an expression or function call where it can be replaced with its resulting value without affecting the program's behavior.
 
 ### Node JS Tutorial for Beginners #6 - Modules and require()
 1. What is a module?
