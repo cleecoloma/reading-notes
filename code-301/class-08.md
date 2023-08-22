@@ -9,8 +9,8 @@
 2. REST APIs are designed around a ____.
 > resources.
 3. What is an identifier of a resource? Give an example.
-> Identifier of a resource is any kind of object, data, or service that can be accessed by the client.
-> An example would be an API's URL
+> Identifier of a resource is a unique word that identifies a specific resource. This identifier is often used a part of the resource's URI.
+> An example would be API key we used for the location IQ API.
 4. What are the most common HTTP verbs?
 > POST, GET, POST, PATCH, DELETE
 5. What should the URIs be based on?
