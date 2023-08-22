@@ -1,7 +1,7 @@
 # Class 09 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because...
+> These topics relates because functional programming is a big part in programming and I will utilize it on my future job.
 
 ### Functional Programming Concepts
 1. What is functional programming?
@@ -20,12 +20,16 @@
 
 ### Node JS Tutorial for Beginners #6 - Modules and require()
 1. What is a module?
+> It's just another JavaScript file. It's a self-contained unit of code that encapsulates related functionality.
 2. What does the word ‘require’ do?
+> `require` allows developers to access files/functions outside to be utilized inside that file
 3. How do we bring another module into the file the we are working in?
+> Utilize `require` at the top of the file and assign it to a variable.
 4. What do we have to do to make a module available?
+> We need to use `module.exports` in order the file to be utilized in a file that has `require` in it.
 
 ### Things I want to learn more about.
-> I want to more learn about...
+> I want to more learn about different modules that can help me build projects.
 
 
 ###### I also utilized ChatGPT with some of the questions.
