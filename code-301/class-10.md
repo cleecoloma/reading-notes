@@ -1,7 +1,7 @@
 # Class 10 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because...
+> These topics relates because errors are a big part in programming. I always get errors and most of the time it is hard to debug them.
 
 ### Understanding the JavaScript Call Stack
 1. What is a ‘call’?
@@ -38,14 +38,20 @@ main();
 
 ### JavaScript error messages
 1. What is a ‘reference error’?
+> A 'reference error' is an error that occurs when a variable is used that has not been declared.>
 2. What is a ‘syntax error’?
+> A 'syntax error' is an error that occurs when the code does not follow the correct syntax rules.
 3. What is a ‘range error’?
+> A 'range error' is an error that occurs when a value is outside of the allowed range for a variable.
 4. What is a ‘type error’?
+> A 'type error' is an error that occurs when a value is assigned to a variable of the wrong type.
 5. What is a breakpoint?
+> A breakpoint is a point in your code where the execution will stop so you can inspect the values of variables and the call stack.
 6. What does the word ‘debugger’ do in your code?
+> The word 'debugger' is used to start the debugger in your code.
 
 ### Things I want to learn more about.
 > None
 
 
-###### I also utilized ChatGPT with some of the questions.
+###### I also utilized Bard with some of the questions.
