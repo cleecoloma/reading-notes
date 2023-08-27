@@ -24,18 +24,27 @@
 6. Which type of database is best for hierarchical data storage?
 > NoSQL database like MongoDB where data can be organized in nested structures.
 7. Which type of database is best for scalability?
-> A distributed NoSQL database as they can efficiently handle large volumes of data and traffic across multiple nodes or server
+> A distributed NoSQL database as they can efficiently handle large volumes of data and traffic across multiple nodes or server.
 
 ### SQL vs NoSQL Video
 1. What does SQL stand for?
+> SQL stands for Structured Query Language.
 2. What is a relational database?
+> Relational database is a type of database that organizes and stores data in tables with predefined relationships between them.
 3. What type of structure does a relational database work with?
-4. What is a ‘schema’?
+> A relational database works with a tabular structure where data is stored in rows and columns.
+4. What is a `schema`?
+> A `schema` in the context of a database refers to the blueprint that defines the structure, organization, and constraints of the data.
 5. What is a NoSQL database?
+> A NoSQL database is a type of database that stores and retrieves data without using the traditional tabular relational model.
 6. How does it work?
+> NoSQL database work by using various data models like key-value pairs, documents, columnar, or graph to store and retrieve data, allowing for flexibility and scalability.
 7. What is inside of a MongoDB database?
+> Inside a MongoDB database are collections that store documents in BSON format (binary JSON), representing data in a hierarchical structure.
 8. Which is more flexible - SQL or MongoDB? and why.
+> A MongoDB database is generally considered more flexible than traditional SQL database because it allows dynamic schema changes and handles unstructured data well, offering adaptability to changing requirements.
 9. What is the disadvantage of a NoSQL database?
+> A disadvantage of NoSQL databases is the lack of standardized querying language, which can lead to a steeper learning curve and difficulties when trying to migrate from one NoSQL database to another.
 
 ### Things I want to learn more about.
 > None
