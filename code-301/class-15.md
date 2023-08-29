@@ -9,7 +9,9 @@
 2. Give an example of what using OAuth would look like.
 > 
 3. How does OAuth work? What are the steps that it takes to authenticate the user?
+> 
 4. What is OpenID?
+> 
 
 ### Authorization and Authentication flows
 1. What is the difference between authorization and authentication?
