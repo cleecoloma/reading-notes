@@ -1,7 +1,7 @@
 # Class 13 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because CRUD
+> These topics relates because CRUD is a big part of web applications.
 
 ### CRUD Basics
 1. Which HTTP method would you use to update a record through an API?
@@ -20,7 +20,7 @@
 > 5. Test and Deploy
 
 ### Things I want to learn more about.
-> None
+> I want to learn more about implementing/building CRUD web applications.
 
 
 ###### I also utilized ChatGPT with some of the questions.
