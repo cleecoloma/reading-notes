@@ -1,7 +1,7 @@
 # Class 15 Summary
 ## Code 301 - Intermediate Software Development
 
-> These topics relates because...
+> These topics relates because 0auth lets you use cool apps and websites without giving away your private passwords, keeping your information safe while still letting you enjoy online services.
 
 ### What is 0Auth
 1. What is OAuth?
@@ -22,22 +22,23 @@
 
 ### Authorization and Authentication flows
 1. What is the difference between authorization and authentication?
-> 
+> Authorization decides what you can do once your identity is confirmed.
+> Authentication verifies who you are.
 2. What is Authorization Code Flow?
-> 
+> Authorization Code Flow is an OAuth 2.0 authentication process where a user is redirected to a third-party service to log in, and upon successful login, the service provides an authorization code to the requesting application. The application then exchanges this code for an access token, allowing it to securely access the user's resources.
 3. What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
-> 
+> Authorization Code Flow with Proof Key for Code Exchange (PKCE) is an enhanced OAuth 2.0 authentication process designed for better security, often used in mobile and native applications. It ensures that even if the authorization code is intercepted, an additional secret ("code verifier") is required for token exchange, adding an extra layer of protection against certain attacks.
 4. What is Implicit Flow with Form Post?
-> 
+> Implicit Flow with Form Post is an OAuth 2.0 authentication method designed for client-side web applications. It involves obtaining access tokens directly through the browser using a hidden form post, providing a secure way to handle authentication without exposing tokens in the browser's URL.
 5. What is Client Credentials Flow?
-> 
+> Client Credentials Flow is an OAuth 2.0 authentication process used by applications that need to access resources on their own behalf rather than on behalf of a user. It involves the application directly exchanging its client credentials (client ID and client secret) for an access token, granting it access to protected resources.
 6. What is Device Authorization Flow?
-> 
+> Device Authorization Flow is an OAuth 2.0 authentication mechanism designed for devices with limited input capabilities, such as smart TVs or IoT devices. The flow allows users to authorize these devices by displaying a user code and a URL on the device's screen, which the user can input on a separate device to complete the authentication process and grant access.
 7. What is Resource Owner Password Flow?
-> 
+> Resource Owner Password Flow is an OAuth 2.0 authentication method where the user's credentials (username and password) are directly exchanged for an access token, typically used in trusted applications like first-party mobile apps. However, this flow is considered less secure and less recommended compared to other OAuth flows that avoid exposing user credentials to the client application.
 
 ### Things I want to learn more about.
-> I want to learn more about implementing/building 0Auth to my web applications.
+> I want to learn more about implementing authentication/authorization functionality in my web applications.
 
 
-###### I also utilized ChatGPT with some of the questions.
+###### I also utilized ChatGPT with these questions.
