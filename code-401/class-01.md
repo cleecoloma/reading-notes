@@ -1,35 +1,18 @@
 # Class 01 Summary
-## Code 301 - Intermediate Software Development
+## Code 301 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because React is currently one of the top libraries to use especially for front-end web development.
+### Review if helpful: An Introduction to Node.js on sitepoint.com
+1. How would you describe Node to a non-technical friend?
+> 
+2. What does it mean that Node is a JavaScript runtime?
+3. What is Node used for?
+> 
 
-### Component-Based Architecture
-1. What is a “component”?
-> Components are independent and reusable chunks of codes.
-2. What are the characteristics of a component?
-> * Reusability
-> * Replaceable
-> * Not context specific
-> * Extensible
-> * Encapsulated
-> * Independent 
-3. What are the advantages of using component-based architecture?
-> * Ease of deployment
-> * Reduced cost
-> * Ease of development
-> * Reusable
-> * Modification of technical complexity
-> * Reliability
-> * System maintenance and evolution
-> * Independent
-
-### What is Props and How to Use it in React
-1. What is “props” short for?
-> In React, **props** is short for properties
-2. How are props used in React?
-> **Props** are used in React to pass data from one component to another.
-3. What is the flow of props?
-> The flow of **props** is uni-directional flow. This means one way from parent to child.
-
-### Things I want to learn more about.
-> I want to learn more about React hooks and how I can utilize them for my personal projects.
+### Additional Questions
+1. Looking ahead at this module’s course schedule, What do you look forward to learning?
+> I look forward on learning 3 things on this course:
+> 1. Test-Driven Development
+> 2. AWS
+> 3. React Native
+2. What are your learning goals after reading and reviewing the class README?
+> My goal is to expand my knowledge about Continuous Integration and Development.
