@@ -10,16 +10,16 @@
 
 | Code 102 | Code 201 | Code 301 | Code 401 |
 | ----------- | ----------- | ----------- | ----------- | 
-| [Class-01](./code-102/class-01.md) | [Class-01](./code-201/class-01.md) | [Class-01](./code-301/class-01.md) | | 
-| [Class-02](./code-102/class-02.md) | [Class-02](./code-201/class-02.md) | [Class-02](./code-301/class-02.md) | | 
-| [Class-03](./code-102/class-03.md) | [Class-03](./code-201/class-03.md) | [Class-03](./code-301/class-03.md) | | 
-| [Class-04](./code-102/class-04.md) | [Class-04](./code-201/class-04.md) | [Class-04](./code-301/class-04.md) | | 
-| [Class-05](./code-102/class-05.md) | [Class-05](./code-201/class-05.md) | [Class-05](./code-301/class-05.md) | | 
-| [Class-06](./code-102/class-06.md) | [Class-06](./code-201/class-06.md) | [Class-06](./code-301/class-06.md) | | 
-| [Class-07](./code-102/class-07.md) | [Class-07](./code-201/class-07.md) | [Class-07](./code-301/class-07.md) | | 
-| [Class-08](./code-102/class-08.md) | [Class-08](./code-201/class-08.md) | [Class-08](./code-301/class-08.md) | | 
-| | [Class-09](./code-201/class-09.md) | [Class-09](./code-301/class-09.md) | | 
-| | [Class-10](./code-201/class-10.md) | [Class-10](./code-301/class-10.md) | | 
+| [Class-01](./code-102/class-01.md) | [Class-01](./code-201/class-01.md) | [Class-01](./code-301/class-01.md) | [Class-01](./code-401/class-01.md) | 
+| [Class-02](./code-102/class-02.md) | [Class-02](./code-201/class-02.md) | [Class-02](./code-301/class-02.md) | [Class-02](./code-401/class-02.md) | 
+| [Class-03](./code-102/class-03.md) | [Class-03](./code-201/class-03.md) | [Class-03](./code-301/class-03.md) | [Class-03](./code-401/class-03.md) | 
+| [Class-04](./code-102/class-04.md) | [Class-04](./code-201/class-04.md) | [Class-04](./code-301/class-04.md) | [Class-04](./code-401/class-04.md) | 
+| [Class-05](./code-102/class-05.md) | [Class-05](./code-201/class-05.md) | [Class-05](./code-301/class-05.md) | [Class-05](./code-401/class-05.md) | 
+| [Class-06](./code-102/class-06.md) | [Class-06](./code-201/class-06.md) | [Class-06](./code-301/class-06.md) | [Class-06](./code-401/class-06.md) | 
+| [Class-07](./code-102/class-07.md) | [Class-07](./code-201/class-07.md) | [Class-07](./code-301/class-07.md) | [Class-07](./code-401/class-07.md) | 
+| [Class-08](./code-102/class-08.md) | [Class-08](./code-201/class-08.md) | [Class-08](./code-301/class-08.md) | [Class-08](./code-401/class-08.md) | 
+| | [Class-09](./code-201/class-09.md) | [Class-09](./code-301/class-09.md) | [Class-09](./code-401/class-09.md) | 
+| | [Class-10](./code-201/class-10.md) | [Class-10](./code-301/class-10.md) | [Class-10](./code-401/class-10.md) | 
 | | [Class-11](./code-201/class-11.md) | [Class-11](./code-301/class-11.md) | | 
 | | [Class-12](./code-201/class-12.md) | [Class-12](./code-301/class-12.md) | | 
 | | [Class-13](./code-201/class-13.md) | [Class-13](./code-301/class-13.md) | | 
@@ -34,10 +34,14 @@
 
 ### About Me
 ![Profile Picture](https://avatars.githubusercontent.com/u/104961833?s=400&u=842fa7c8bb9c0fbfcf956655c2b13dff928e128d&v=4)
-> I'm **Chester Lee Coloma**. My background is in Mechanical Engineering. I'm taking Code Fellows pursue a career change to Software Development. From this course, I hope to learn what the current industry technical skills are and to go through the processes of working on a team.
+> I'm **Chester Lee Coloma**. A full-stack software developer with a focus on responsive design and user interface (UI) development. Former mechanical engineer with an active secret clearance and 8+ years of professional working experience in team oriented roles to deliver technically sound solutions to maintain the US Navy submarines while adhering to rigid documentation. 
 
-Here's the link to my GitHub portfolio page:
-[GitHub Portfolio Page](https://github.com/cleecoloma)
+See my work below:
+[GitHub Page](https://github.com/cleecoloma)
+
+Get in touch with me:
+Here's the link to my Linked page:
+[LinkedIn Page](https://www.linkedin.com/in/chesterleecoloma/)
 
 ---
 
