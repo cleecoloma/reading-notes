@@ -1,5 +1,5 @@
 # Class 01 Summary
-## Code 301 - Advanced Software Development in Full-Stack JavaScript
+## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
 > These topics relates because Node.js is integral part when creating a server using JavaScript.
 

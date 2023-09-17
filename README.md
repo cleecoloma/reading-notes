@@ -26,6 +26,7 @@
 | | [Class-14](./code-201/class-14.md) | [Class-14](./code-301/class-14.md) | | 
 | | | [Class-15](./code-301/class-15.md) | | 
 
+* [The Growth Mindset](growth-mindset.md)
 * [Prompt Engineering](prompt-engineering.md)
 * [Psychological Safety](psychological-safety.md)
 * [Dive Into React](dive-into-react.md)
