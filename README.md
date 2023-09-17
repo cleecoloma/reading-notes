@@ -28,6 +28,7 @@
 
 * [The Growth Mindset](growth-mindset.md)
 * [Introduction to SQL](introduction-to-sql.md)
+* [Practice in the Terminal](practice-in-the-terminal.md)
 * [Prompt Engineering](prompt-engineering.md)
 * [Psychological Safety](psychological-safety.md)
 * [Dive Into React](dive-into-react.md)
