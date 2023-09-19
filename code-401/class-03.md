@@ -23,11 +23,18 @@
 
 ### Express Routing
 1. What is an Express Router?
+> Express Router is a mini express application without all the bells and whistles of an express application, just the routing stuff.
 2. By what mean do we initialize `express.Router()` in an express server?
+```javascript
+const express = require('express');
+const router = express.Router();
+```
 3. What do we use route middleware for?
+> Route middleware is used to perform actions or operations that should be executed before or after handling a specific route.
 
 ### Reflection
-1. What are your learning goals after reading and reviewing the class README?
+1. What are your learning goals after reading and reviewing the class `README`?
+> Some learning goals I have after reading and reviewing the class `README` are learn more about SQL and try to implement them in personal projects.
 
 ### Things I want to learn more about.
 > I want to learn more about how to use `next` when using express.
