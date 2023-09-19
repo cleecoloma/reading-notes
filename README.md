@@ -26,6 +26,7 @@
 | | [Class-14](./code-201/class-14.md) | [Class-14](./code-301/class-14.md) | | 
 | | | [Class-15](./code-301/class-15.md) | | 
 
+* [Data Structures and Algorithms](data-structures-and-algorithms.md)
 * [Engineering Readings](engineering-readings.md)
 * [The Growth Mindset](growth-mindset.md)
 * [Introduction to SQL](introduction-to-sql.md)
