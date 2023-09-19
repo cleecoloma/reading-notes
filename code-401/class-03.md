@@ -1,4 +1,4 @@
-# Class 023 Summary
+# Class 03 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
 > These topics relates because they have specific roles on web application developments.
