@@ -1,7 +1,7 @@
 # Class 04 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because...
+> These topics relates because, when creating CRUD applications, nosql or sql databases are usually involved.
 
 ### Reading - nosql vs sql
 1. What type of database is the best fit for the complex query intensive environment?
@@ -22,6 +22,6 @@
 1. What are your learning goals after reading and reviewing the class README?
 
 ### Things I want to learn more about.
-> I want to learn more about...
+> I want to learn more about utilizing sql database because we already used a nosql database - MongoDB on Code 301.
 
 #### I utilized ChatGPT for some of the questions.
