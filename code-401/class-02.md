@@ -32,8 +32,13 @@
 
 ### CI/CD
 1. What are three benefits of Continuous Integration?
-2. What is the difference between Continuos Delivery and Continuous Deployment?
+> 1. Improved development and deployment
+> 2. Improved collaboration
+> 3. Early detection of bugs
+2. What is the difference between Continuous Delivery and Continuous Deployment?
+> Continuous Delivery ensures that build is always in a deployable state. This happens from build stage through staging/pre-production stage. Continuous Deployment is any build that passes through an automatic tests where they are directly deployed into production.
 3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background
+> GitHub acts a central hub for collaboration and version control making Continuous Integration and Continuos Delivery process possible.
 
 ### Things I want to learn more about.
 > I want to learn more about test-driven development.
