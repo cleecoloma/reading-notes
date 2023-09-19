@@ -1,7 +1,7 @@
 # Class 02 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because...
+> These topics relates because they have specific roles on web application developments.
 
 ### An introduction to NodeJS and Express
 1. Explain middleware, answer as though I were a non-technical recruiter.
@@ -15,12 +15,20 @@
 
 ### What is NPM?
 1. What version of npm are you running on your machine?
+> The version of npm I'm running on my machine is 9.8.1.
 2. What command would you type to install a library/package called ‘jshint’ into your node project?
+> `npm install jshint`
 
 ### What is TDD
 1. Explain why tests are important. Please explain as though I were your non technical elder.
+> Tests are important because make sure the applications you create reliable and work as they are intended. Think of it like a chef, a chef sometimes taste tests their cooking to make sure it taste the way they want it.
 2. What are three expected benefits of testing
+> 1. Significant reduction in bugs
+> 2. Smoother final project phase
+> 3. Improved technical quality
 3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
+> 1. Writing too many tests at once
+> 2. Writing tests that are too large
 
 ### CI/CD
 1. What are three benefits of Continuous Integration?
@@ -28,6 +36,6 @@
 3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background
 
 ### Things I want to learn more about.
-> I want to learn more about...
+> I want to learn more about test-driven development.
 
 #### I utilized ChatGPT for some of the questions.
