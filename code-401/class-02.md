@@ -5,9 +5,13 @@
 
 ### An introduction to NodeJS and Express
 1. Explain middleware, answer as though I were a non-technical recruiter.
+> In software, it acts as a coordinator between different applications that allows them to work together. A real-world example would be an event coordinator where they are in charge of making things run smoothly.
 2. Express the most popular __ __ ____.
+> Express is the most popular ***Node web framework***.
 3. Express is “unopinionated.” What does that mean?
+> It means that not have an opinions about the "right way" to handle any particular task.
 4. What is a module and why is modularity useful to us as developers?
+> A module is a JavaScript library/file that you can import into other code using Node's require() function.
 
 ### What is NPM?
 1. What version of npm are you running on your machine?
