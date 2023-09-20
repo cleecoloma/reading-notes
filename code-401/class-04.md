@@ -21,8 +21,11 @@
 
 ### Videos - nosql vs sql
 1. How do we treat keywords and parameters differently in SQL syntax?
+> In SQL syntax, keywords as reserved words that have special meanings and cannot be used as names for tables or columns. On teh other hand, parameters are placeholders for values that can be dynamically inserted into SQL queries to make them more flexible and reusable.
 2. Define normalization within the context of schemas and data.
+> Normalization is the process of organizing and structuring data in a relational database to minimize redundancy and dependency, which helps improve data integrity and efficiency.
 3. Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.
+> A one-to-one relationship as a key and a lock, where each key (person) matches only one lock. A one-to-many relationship is like a library where one librarian (parent) manages multiple books (children), but each book has only one librarian. A many-to-many relationship is like social media friendships where people can have multiple friends and each friend can be friends with multiple others.
 
 ### Reflection
 1. What are your learning goals after reading and reviewing the class README?
