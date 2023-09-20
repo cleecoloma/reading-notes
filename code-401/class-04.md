@@ -29,8 +29,9 @@
 
 ### Reflection
 1. What are your learning goals after reading and reviewing the class README?
+> After reading and reviewing the class README, my learning goals are gain additional knowledge regarding SQL database and the ability to comprehend the difference between MongoDB (we learned on Code 301) and postgresQL
 
 ### Things I want to learn more about.
 > I want to learn more about utilizing sql database because we already used a nosql database - MongoDB on Code 301.
 
-#### I utilized ChatGPT for some of the questions.
+#### I utilized ChatGPT for most of the questions.
