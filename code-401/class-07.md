@@ -5,21 +5,31 @@
 
 ### Intro to JWT
 1. What is a JSON Web Token (JWT)?
+> JWT is an open standard that defines a compact and self-contained way to securely transmitting information between parties as a JSON object.
 2. When should we use JSON Web Tokens?
+> We use JSON Web Tokens for scenarios such as: 1. Authorization - allowing user to access routes, services, and resources and 2. Information Exchange - transmitting information between parties.
 3. Claims are expected in which structural component of a JWT?
+> 
 
 ### Are JWTs Secure
 1. If I get a JWT and I can decode the payload, how can we call that secure?
+> 
 2. If sending a JWT, what must sender and receiver both know? Hint, it’s appended in the signature.
+> 
 3. Explain how concatenated content and secret can be sent and received securely to a non-technical recruiter.
+> 
 
 ### JWTs Explained
 1. Why use JWT?
+> 
 2. JWT is Compact and self-contained. Describe how this is useful to a non-technical friend.
+> 
 3. What are the three components (the structure) of a JWT signature?
+> 
 
 ### Reflection
 1. What are your learning goals after reading and reviewing the class README?
+> 
 
 ### Things I want to learn more about.
 > Same as Reflection
