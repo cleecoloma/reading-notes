@@ -23,8 +23,11 @@
 
 ### RBAC tutorial
 1. What Are access rights Associated with? The User? or The Role? Explain.
+> Access rights in RBAC are associated with roles, not individual users. Users are assigned roles, and those roles determine their access rights.
 2. Access Rights, or Authorization, is activated after a user successfully does what?
+> Access rights (authorization) are activated after a user successfully logs in or authenticates.
 3. Explain how RBAC might benefit a business.
+> RBAC can benefit a business by improving security, simplifying user access management, reducing the risk of data breaches, and ensuring that employees only have access to the resources necessary for their roles, which can increase productivity and efficiency.
 
 ### Reflection
 1. What are your learning goals after reading and reviewing the class README?
@@ -33,4 +36,4 @@
 ### Things I want to learn more about.
 > Same as Reflection
 
-#### I utilized ChatGPT for some of the questions.
+#### I utilized ChatGPT for most of the questions.
