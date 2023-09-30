@@ -1,7 +1,7 @@
 # Class 11 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because...
+> These topics relates because event driven programming is a way for web applications to be responsive and scalable.
 
 ### Event Driven Programming
 1. What native Node.js module allows us to get started with Event Driven Programming?
@@ -13,11 +13,11 @@
 
 ### Additional Questions
 1. Looking ahead at this module’s course schedule, What do you look forward to learning?
-> 
+> I look forward to learning more about stack and queues coding challenges.
 2. What are your learning goals after reading and reviewing the class README?
-> 
+> My learning goals is to deep dive on event driven programming during lab work.
 
 ### Things I want to learn more about.
-> 
+> See additional Questions
 
 #### I utilized ChatGPT for most of the questions.
