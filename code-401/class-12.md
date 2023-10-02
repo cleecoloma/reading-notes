@@ -1,7 +1,7 @@
 # Class 12 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because...
+> These topics relates because OSI is really important in the web world.
 
 ### Web Sockets
 1. What is a Web Socket?
