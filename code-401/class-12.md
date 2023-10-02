@@ -5,7 +5,7 @@
 
 ### Web Sockets
 1. What is a Web Socket?
-> WebScoket is a computer communications protocol, providing full-duplex communication channels over a single TCP connections.
+> WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connections.
 2. Describe the Web Socket request/response handshake and what happens once the connection is established.
 > The WebSocket request/response handshake involves the client sending an HTTP request with an "Upgrade" header to the server, and if the server supports WebSocket, it responds with an HTTP 101 status code, indicating the connection is upgraded to WebSocket. Once the connection is established, both the client and server can exchange data in a bidirectional manner without the overhead of traditional HTTP requests and responses.
 3. Web Sockets provide a standardized way for the server to send content to a client without first receiving a ____ from that client.
@@ -28,12 +28,23 @@
 
 ### OSI Model Explained
 1. What are a couple of key takeaways from this video?
+> First takeaway is that there are 7 layers:
+  1. Physical
+  2. Data Link
+  3. Network
+  4. Transport
+  5. Session
+  6. Presentation
+  7. Application
+> Second takeaway is HTTP is part of Application Layers. For example, when we web surf, send email, etc.
 
 ### TCP Handshakes Explained
 1. Translate the gist of this video to a non-technical friend
+> A TCP handshake is like saying "hello" before you start talking on the phone. First, one person (the client) says, "Hi, can we talk?" Then, the other person (the server) says, "Yes, we can talk, and here's my special number." Finally, the first person says, "Great, let's talk with that special number now!" This way, they make sure they can understand each other before they start talking.
 
 ### Reflection
 1. What are your learning goals after reading and reviewing the class README?
+> My main learning goal would be to understand Socket.io and WebSockets to be able to create a messaging application.
 
 ### Things I want to learn more about.
 > See additional Questions
