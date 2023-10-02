@@ -29,13 +29,13 @@
 ### OSI Model Explained
 1. What are a couple of key takeaways from this video?
 > First takeaway is that there are 7 layers:
-  1. Physical
-  2. Data Link
-  3. Network
-  4. Transport
-  5. Session
-  6. Presentation
-  7. Application
+  * Physical
+  * Data Link
+  * Network
+  * Transport
+  * Session
+  * Presentation
+  * Application
 > Second takeaway is HTTP is part of Application Layers. For example, when we web surf, send email, etc.
 
 ### TCP Handshakes Explained
