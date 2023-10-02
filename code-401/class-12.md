@@ -20,8 +20,11 @@
 
 ### Socket.io vs Web Sockets
 1. What is the difference between WebSocket and Socket.IO? (think Git and GitHub, or OAuth and Auth0).
+> WebSocket is a protocol for real-time, bidirectional communication over a single TCP connection, whereas Socket.IO is a library built on top of WebSocket that provides additional features like fallbacks for older browsers and built-in support for events.
 2. When would you use Socket.IO?
+> You would use Socket.IO when you need real-time communication between a server and clients, especially when you want to support a wide range of browsers, including older ones.
 3. When would you use WebSockets?
+> You would use raw WebSockets when you need a more lightweight and direct solution for real-time communication and have control over the entire WebSocket implementation, often in scenarios where browser compatibility is less of a concern.
 
 ### OSI Model Explained
 1. What are a couple of key takeaways from this video?
