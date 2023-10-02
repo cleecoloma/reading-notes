@@ -1,0 +1,38 @@
+# Class 12 Summary
+## Code 401 - Advanced Software Development in Full-Stack JavaScript
+
+> These topics relates because...
+
+### Web Sockets
+1. What is a Web Socket?
+> WebScoket is a computer communications protocol, providing full-duplex communication channels over a single TCP connections.
+2. Describe the Web Socket request/response handshake and what happens once the connection is established.
+> The WebSocket request/response handshake involves the client sending an HTTP request with an "Upgrade" header to the server, and if the server supports WebSocket, it responds with an HTTP 101 status code, indicating the connection is upgraded to WebSocket. Once the connection is established, both the client and server can exchange data in a bidirectional manner without the overhead of traditional HTTP requests and responses.
+3. Web Sockets provide a standardized way for the server to send content to a client without first receiving a ____ from that client.
+> request
+### Socket.io Tutorial
+1. What does the event handler `io.on()` do?
+> The event handler `io.on()` is used in the context of a Node.js server using a library like Socket.IO to listen for specific events from clients and perform actions when those events occur.
+2. Describe some possible proof of life or proof that the code works as expected
+> Possible proof of life or proof that the code works as expected could include logging messages, console outputs, or visual indicators in the application that demonstrate the successful execution of critical code sections or the occurrence of specific events during runtime.
+3. What does `socket.emit()` do?
+> `socket.emit()` is a method in Socket.IO that allows the server to send custom events to a specific client or to all connected clients. It enables server-to-client communication by emitting events that clients can listen for and respond to.
+
+### Socket.io vs Web Sockets
+1. What is the difference between WebSocket and Socket.IO? (think Git and GitHub, or OAuth and Auth0).
+2. When would you use Socket.IO?
+3. When would you use WebSockets?
+
+### OSI Model Explained
+1. What are a couple of key takeaways from this video?
+
+### TCP Handshakes Explained
+1. Translate the gist of this video to a non-technical friend
+
+### Reflection
+1. What are your learning goals after reading and reviewing the class README?
+
+### Things I want to learn more about.
+> See additional Questions
+
+#### I utilized ChatGPT for some of the questions.
