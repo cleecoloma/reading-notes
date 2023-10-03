@@ -10,6 +10,7 @@
 > The WebSocket request/response handshake involves the client sending an HTTP request with an "Upgrade" header to the server, and if the server supports WebSocket, it responds with an HTTP 101 status code, indicating the connection is upgraded to WebSocket. Once the connection is established, both the client and server can exchange data in a bidirectional manner without the overhead of traditional HTTP requests and responses.
 3. Web Sockets provide a standardized way for the server to send content to a client without first receiving a ____ from that client.
 > request
+
 ### Socket.io Tutorial
 1. What does the event handler `io.on()` do?
 > The event handler `io.on()` is used in the context of a Node.js server using a library like Socket.IO to listen for specific events from clients and perform actions when those events occur.
