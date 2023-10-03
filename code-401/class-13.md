@@ -28,7 +28,7 @@ socket.join('some room');
    > You leave a room by using the code below:
 
 ```javascript
-socket.leave('roomName');
+socket.leave('some room');
 ```
 
 ### Namespaces
