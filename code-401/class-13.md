@@ -34,11 +34,11 @@ socket.leave('roomName');
 ### Namespaces
 
 1. What is a Namespace and what does it allow you to do?
-   >
+   > A Namespace is a communication channel that allows you to split the logic of your application over a single shared connection (also called "multiplexing").
 2. Each namespace potentially has its own what? (hint: 3 things)
-   >
+   > Each namespace potentially has its own set of identifiers, making them isolated from those in other namespaces. These identifiers can include variables, functions, or objects, each with its own separate scope, making it possible to have similar identifiers with different meanings or values in different namespaces.
 3. Discuss a possible use case for separate namespaces
-   >
+   > A possible use case for separate namespaces is in a cloud computing environment where multiple teams or projects share the same infrastructure. Each team or project can have its own namespace, ensuring isolation and preventing interference between their resources and configurations. For instance, in Kubernetes, namespaces can be used to segment applications, allowing different teams to deploy their services independently while sharing the same cluster resources.
 
 ### Reflection
 
