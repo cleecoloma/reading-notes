@@ -23,7 +23,7 @@
 | | [Class-11](./code-201/class-11.md) | [Class-11](./code-301/class-11.md) | [Class-11](./code-401/class-11.md) | 
 | | [Class-12](./code-201/class-12.md) | [Class-12](./code-301/class-12.md) | [Class-12](./code-401/class-12.md) | 
 | | [Class-13](./code-201/class-13.md) | [Class-13](./code-301/class-13.md) | [Class-13](./code-401/class-13.md) | 
-| | [Class-14](./code-201/class-14.md) | [Class-14](./code-301/class-14.md) | | 
+| | [Class-14](./code-201/class-14.md) | [Class-14](./code-301/class-14.md) | [Class-14](./code-401/class-14.md) | 
 | | | [Class-15](./code-301/class-15.md) | | 
 
 * [Data Structures and Algorithms](data-structures-and-algorithms.md)

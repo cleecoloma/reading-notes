@@ -1,8 +1,7 @@
 # Class 13 Summary
-
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because...
+> These topics relates because socket.io is helpful when building a messaging application.
 
 ### Socket.io Chat Example
 
