@@ -1,7 +1,7 @@
 # Class 14 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because implementing what we learned so far is a great way to strengthen new learned tools.
+> These topics relates because implementing what we learned so far is a great way to strengthen newly learned tools.
 
 ### Event Driven Application
 1. Real-Time Polling App - Develop a real-time polling app where users can vote on a single question. Use Socket.io to instantly update the poll results for all connected users.
