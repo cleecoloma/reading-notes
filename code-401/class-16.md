@@ -30,9 +30,9 @@
 
 ### Additional Questions
 1. Looking ahead at this module’s course schedule, What do you look forward to learning?
-> 
+> Link is broken
 2. What are your learning goals after reading and reviewing the class README?
-> 
+> I want to be knowledgeable enough on EC2 and Elastic Beanstalk to be able to successfully implement on my projects.
 
 ### Things I want to learn more about.
 > See Additional Questions above.
