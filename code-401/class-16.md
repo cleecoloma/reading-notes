@@ -22,11 +22,11 @@
 
 ### Elastic Beanstalk
 1. What is Elastic Beanstalk?
-> 
+> Elastic Beanstalk is a Platform-as-a-Service (PaaS) offering from AWS that simplifies the deployment and management of applications.
 2. Describe the relationship between EC2 and Elastic Beanstalk.
-> 
+> Elastic Beanstalk uses EC2 instances as the underlying infrastructure to run and manage applications.
 3. Name some benefits of using Elastic Beanstalk.
-> 
+> Benefits of using Elastic Beanstalk include automated application scaling, easy deployment, automatic load balancing, and simplified application management.
 
 ### Additional Questions
 1. Looking ahead at this module’s course schedule, What do you look forward to learning?
