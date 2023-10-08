@@ -5,19 +5,20 @@
 
 ### AWS EC2
 1. What is an EC2 Instance?
-> 
+> An EC2 instance is a virtual server in Amazon Web Services (AWS) Elastic Compute Cloud (EC2) that can run various operating systems and applications.
 2. Name 2 use cases for EC2.
-> 
+* Hosting a website or web application
+* Running data processing tasks on a scalable server.
 3. Provide 1 reason to use ECS instead of a service such as Heroku, Digital Ocean, or Render.com.
-> 
+> One reason to use ECS (Elastic Container Service) instead of services like Heroku, Digital Ocean, or Render.com is greater control and flexibility over container orchestration and management.
 
 ### EC2 For Humans
 1. Where can we find EC2 on the AWS Console?
-> 
+> EC2 can be found on the AWS Console under the "Compute" section in the "EC2 Dashboard."
 2. Explain the general difference between T2 Micro and XL.
-> 
+> T2 Micro and XL differ in terms of their computational power and resources, with T2 Micro being a small, low-powered instance and XL being a larger, more powerful one.
 3. Explain a “Compute Cycle” to a non-technical friend.
-> 
+> A "Compute Cycle" is like a single action or task that a computer performs, such as running a calculation or processing a request from a user.
 
 ### Elastic Beanstalk
 1. What is Elastic Beanstalk?
