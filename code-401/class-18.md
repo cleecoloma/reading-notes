@@ -13,9 +13,15 @@
 
 ### AWS API Gateway
 1. What are the some benefits of using Amazon API Gateway?
-> 
+* Efficient API development
+* Performance at any scale
+* Cost savings at scale
+* Easy monitoring
+* Flexible security controls
+* RESTful API options
 2. What two API types might you choose from?
-> 
+* RESTful APIs
+* WEBSOCKET APIs
 
 ### AWS DynamoDB Guide
 1. What is DynamoDB?
