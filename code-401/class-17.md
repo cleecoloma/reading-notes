@@ -28,11 +28,15 @@
 
 ### CDN
 1. What is a CDN?
+> A Content Delivery Network (CDN) is a geographically distributed group of servers that work together to provide fast delivery of Internet content.
 2. How does a CDN work with relation to the website visitor?
+> CDNs work through servers nearest to the website visitor respond to the request. The content delivery network copies the pages of a website to a network of servers that are spread out at geographically different locations, caching the contents of the page.
 3. What are the benefits of employing a CDN?
+> Employing a CDN doesn’t only speed up the delivery of Internet content, it helps protect your website against certain forms of cyber attacks, such as Denial of Service attacks. It protects against these threats because CDNs allow for the handling of more traffic and withstanding hardware failure better than many origin servers. 
 
 ### Reflection
 1. What are your learning goals after reading and reviewing the class README?
+> I want to learn more about AWS Lambda. Seems to me like its similar to Render which what we have been using so far.
 
 ### Things I want to learn more about.
 > See Reflection above.
