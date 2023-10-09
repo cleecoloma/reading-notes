@@ -25,13 +25,15 @@
 
 ### AWS DynamoDB Guide
 1. What is DynamoDB?
-> 
+> DynamoDB is a hosted NoSQL database offered by Amazon Web Services (AWS).
 2. Under what circumstances would you recommend DynamoDB over MongoDB?
-> 
+* Applications with large amounts of data and strict latency requirements.
+* Serverless applications using AWS Lambda.
+* Data sets with simple, known access patterns.
 
 ### AWS DynamoDB
 1. Explain to a non-technical friend how DynamoDB works.
-> 
+> DynamoDB is like a super-fast and highly scalable digital filing cabinet for storing data in the cloud. It organizes information in tables and automatically spreads it across multiple servers, ensuring quick access and reliability for applications without the need for complex setup or maintenance.
 
 ### Dynamoose
 1. What is Dynamoose?
