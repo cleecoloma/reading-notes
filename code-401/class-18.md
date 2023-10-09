@@ -37,13 +37,22 @@
 
 ### Dynamoose
 1. What is Dynamoose?
-> 
+> Dynamoose is a modeling tool for Amazon's DynamoDB. Dynamoose is heavily inspired by Mongoose, which means if you are coming from Mongoose the syntax will be very familiar.
 2. What are some key features of Dynamoose?
-> 
+* Type safety
+* High level API
+* Easy to use syntax
+* DynamoDB Single Table Design Support
+* Ability to transform data before saving or retrieving items
+* Strict data modeling (validation, required attributes, and more)
+* Support for DynamoDB Transactions
+* Powerful Conditional/Filtering Support
+* Callback & Promise support
+* AWS Multi-region support
 
 ### Reflection
 1. What are your learning goals after reading and reviewing the class README?
-> I want to learn more about...
+> I want to learn more about refactoring my old projects to utilize AWS suite.
 
 ### Things I want to learn more about.
 > See Reflection above.
