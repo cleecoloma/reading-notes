@@ -26,4 +26,4 @@
 ### Things I want to learn more about.
 > See Reflection above.
 
-#### I utilized ChatGPT to help come up with the ideas.
+#### I utilized ChatGPT to answers the questions.
