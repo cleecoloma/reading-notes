@@ -56,7 +56,7 @@ Here's the link to my Linked page:
 ---
 
 ##### Growth Mindset by Chester Lee Coloma
-To me, growth mindset is the ability to adapt to new environment and to be willing to accept changes.
+To me, a growth mindset is the ability to adapt to a new environment and the willingness to accept changes.
 
 ##### Three Things I Do To Keep Myself In A Growth Mindset
 * Always learning new skills
