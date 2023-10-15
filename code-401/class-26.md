@@ -36,8 +36,12 @@
 > React commits changes to the DOM.
 
 ### Additional Questions
-1. What are your learning goals after reading and reviewing the class README?
-> I want to learn more about AWS Lambda. Seems to me like its similar to Render which what we have been using so far.
+1. Note the naming conventions in the Airbnb React/JSX Style Guide. What pattern(s) do you see?
+> Components starts with a capital letter
+2. Looking ahead at this module’s course schedule, What do you look forward to learning?
+> I look forward to learning more about React Hooks as we have been using class components so far.
+3. What are your learning goals after reading and reviewing the class README?
+> I want to learn more about the inner workings  of React.
 
 ### Things I want to learn more about.
 > See Additional Questions above.
