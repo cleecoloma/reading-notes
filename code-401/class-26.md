@@ -23,9 +23,17 @@
 
 ### Render and Commit
 1. What are the three steps of refreshing a React UI?
+> 1. Triggering a render (delivering the guest’s order to the kitchen)
+>
+> 2. Rendering the component (preparing the order in the kitchen)
+>
+> 3. Committing to the DOM (placing the order on the table)
 2. How do you trigger updates to a component after the initial render?
+> The component’s (or one of its ancestors’) state has been updated.
 3. Does React recreate DOM nodes on every rerender?
+> No, React is designed to efficiently update the DOM to reflect changes in your application's state without completely re-creating the entire DOM tree
 4. After React has updated the DOM, what still needs to happen before the user sees the change?
+> React commits changes to the DOM.
 
 ### Additional Questions
 1. What are your learning goals after reading and reviewing the class README?
