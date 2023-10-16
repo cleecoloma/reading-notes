@@ -11,7 +11,7 @@
 | Code 102 | Code 201 | Code 301 | Code 401 | Code 401 |
 | ----------- | ----------- | ----------- | ----------- | ----------- |  
 | [Class-01](./code-102/class-01.md) | [Class-01](./code-201/class-01.md) | [Class-01](./code-301/class-01.md) | [Class-01](./code-401/class-01.md) |  [Class-26](./code-401/class-26.md) | 
-| [Class-02](./code-102/class-02.md) | [Class-02](./code-201/class-02.md) | [Class-02](./code-301/class-02.md) | [Class-02](./code-401/class-02.md) | 
+| [Class-02](./code-102/class-02.md) | [Class-02](./code-201/class-02.md) | [Class-02](./code-301/class-02.md) | [Class-02](./code-401/class-02.md) |  [Class-27](./code-401/class-27.md) | 
 | [Class-03](./code-102/class-03.md) | [Class-03](./code-201/class-03.md) | [Class-03](./code-301/class-03.md) | [Class-03](./code-401/class-03.md) | 
 | [Class-04](./code-102/class-04.md) | [Class-04](./code-201/class-04.md) | [Class-04](./code-301/class-04.md) | [Class-04](./code-401/class-04.md) | 
 | [Class-05](./code-102/class-05.md) | [Class-05](./code-201/class-05.md) | [Class-05](./code-301/class-05.md) | | 
