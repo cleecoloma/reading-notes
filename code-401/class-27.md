@@ -1,7 +1,7 @@
 # Class 27 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because...
+> These topics relates because hooks are relevant while utilizing React.
 
 ### Thinking in React
 1. Summarize the five steps of thinking in react.
@@ -17,12 +17,15 @@
 
 ### State: A Component's Memory
 1. What is one reason a local variable isn’t sufficient for managing a React component?
+> Local variables don’t persist between renders.
 2. What is the argument to the useState hook, and what are the two parts of its return array?
+> The argument in a useState hook is the initial state value. The first element inside the return array is the current state value. The second element inside the return array is a function that updates the state.
 3. How can Component A access state from Component B?
+> By using props that is passed down from parent component to the child component.
 
 ### Additional Questions
 1. What are your learning goals after reading and reviewing the class README?
-> I want to learn more about the inner workings  of React.
+> I want to learn more about my first React hook.
 
 ### Things I want to learn more about.
 > See Additional Questions above.
