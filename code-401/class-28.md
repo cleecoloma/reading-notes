@@ -1,7 +1,7 @@
 # Class 28 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because 
+> These topics relates because useEffect is a React hook that seems very useful.
 
 ### useEffect Hook
 1. What is the main intended use case for the useEffect hook?
