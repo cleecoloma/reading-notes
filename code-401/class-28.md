@@ -1,7 +1,7 @@
 # Class 28 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because useEffect is a React hook that seems very useful.
+> These topics relates because it influences software application's maintainability, scalability, and predictability. Thus, it offers effective control over mutable state and improving code quality.
 
 ### useEffect Hook
 1. What is the main intended use case for the useEffect hook?
@@ -13,7 +13,7 @@
 
 ### Additional Questions
 1. What are your learning goals after reading and reviewing the class README?
-> I want to learn more about utilizing useEffect and chat applications together.
+> I want to learn more about utilizing useReducer to be able to apply it to projects.
 
 ### Things I want to learn more about.
 > See Additional Questions above.
