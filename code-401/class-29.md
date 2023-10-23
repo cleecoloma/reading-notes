@@ -1,7 +1,7 @@
 # Class 29 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-> These topics relates because...
+> These topics relates because it influences software application's maintainability, scalability, and predictability, offering effective control over mutable state and improving code quality, especially in complex or large projects.
 
 ### Extracting State Logic into a Reducer
 1. What is the motivation for adding a reducer?
