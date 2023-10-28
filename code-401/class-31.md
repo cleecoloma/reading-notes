@@ -6,7 +6,7 @@
 ### Choosing the State Structure
 1. Summarize the five principles for structuring state.
   * ***Group related state:*** Combine state variables updated together into one.
-  * **Avoid contradictions in state:** Prevent conflicting state information.
+  * ***Avoid contradictions in state:*** Prevent conflicting state information.
   * ***Avoid redundant state:*** Don't store data that can be calculated from props or existing state.
   * ***Avoid duplication in state:*** Reduce repeated data within state.
   * ***Avoid deeply nested state:*** Keep state hierarchy flat for easier updates.
