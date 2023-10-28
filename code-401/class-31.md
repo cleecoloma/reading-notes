@@ -1,4 +1,4 @@
-# Class 21 Summary
+# Class 31 Summary
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
 > These topics relates because learning more React hooks is a good thing.
