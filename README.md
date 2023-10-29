@@ -16,7 +16,7 @@
 | [Class-04](./code-102/class-04.md) | [Class-04](./code-201/class-04.md) | [Class-04](./code-301/class-04.md) | [Class-04](./code-401/class-04.md) |  [Class-29](./code-401/class-29.md) |  
 | [Class-05](./code-102/class-05.md) | [Class-05](./code-201/class-05.md) | [Class-05](./code-301/class-05.md) | | 
 | [Class-06](./code-102/class-06.md) | [Class-06](./code-201/class-06.md) | [Class-06](./code-301/class-06.md) | [Class-06](./code-401/class-06.md) |  [Class-31](./code-401/class-31.md) |  
-| [Class-07](./code-102/class-07.md) | [Class-07](./code-201/class-07.md) | [Class-07](./code-301/class-07.md) | [Class-07](./code-401/class-07.md) | 
+| [Class-07](./code-102/class-07.md) | [Class-07](./code-201/class-07.md) | [Class-07](./code-301/class-07.md) | [Class-07](./code-401/class-07.md) |  [Class-32](./code-401/class-32.md) |  
 | [Class-08](./code-102/class-08.md) | [Class-08](./code-201/class-08.md) | [Class-08](./code-301/class-08.md) | [Class-08](./code-401/class-08.md) | 
 | | [Class-09](./code-201/class-09.md) | [Class-09](./code-301/class-09.md) | [Class-09](./code-401/class-09.md) | 
 | | [Class-10](./code-201/class-10.md) | [Class-10](./code-301/class-10.md) | | 
