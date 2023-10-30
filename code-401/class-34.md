@@ -9,6 +9,7 @@
 > 2. v3
 > 3. model name: stuff
 > 4. id: things
+>
 > The API URL is http://our-site.com/v3/stuff/things
 3. We have created a dynamic API with an “interface”. Describe how that interface works to a non-technical friend.
 > Imagine our dynamic API interface is like a vending machine. You walk up to it and ask for a specific snack (an API request), and it gives you exactly what you asked for. You don't need to know how the machine works on the inside; you just tell it what you want, and it provides the right snack (data) in response. It's like having a conversation with a vending machine that always gives you the right treat without you needing to understand all the mechanics behind it.
