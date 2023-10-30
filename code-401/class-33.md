@@ -21,9 +21,12 @@
 > 3. Improving compliance.
 
 ### react-cookies component
-1. Describe some react-cookie features.
-2. Describe some react-cookies features.
+1. Describe some `react-cookie` features.
+> `React-cookie` is a library for handling browser cookies in React applications, providing features for setting, getting, and deleting cookies, as well as server-side rendering support.
+2. Describe some `react-cookies` features.
+> `React-cookies` allows users to be able to access user cookies while doing server-rendering.
 3. Which library would you prefer would you prefer? Why?
+> I would prefer react-cookie because it is a widely recognized and maintained library for working with cookies in React, offering a more robust and established solution.
 
 ### Things I want to learn more about.
 
