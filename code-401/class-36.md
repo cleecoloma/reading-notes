@@ -7,6 +7,9 @@
 2. What is a store and what do we use our reducers for within that store?
 > A store in Redux is an object that holds the application state. Reducers are used within the store to specify how the state should change in response to actions.
 3. Name three Redux store methods given to us by createStore and describe their use.
+> 1.  `getState()` - to retrieve the current state
+> 2.  `dispatch(action)` - to dispatch actions that trigger state changes
+> 3. `subscribe(listener)` - to register callback functions for state changes
 4. Explain to a non-technical recruiter what `combineReducers()` does and why it is useful.
 
 ### Things I want to learn more about.
