@@ -22,7 +22,7 @@
 > As an app becomes more complex, splitting reducing functions is helpful to maintain code organization and avoid one large, monolithic reducer.
 2. The ________ helper function turns an object whose values are different reducing functions into a single reducing function you can pass to ________.
 > 1. `combineReducers `
-> 2. ` Redux store`
+> 2. `Redux store`
 3. What is a popular convention when naming reducers?
 > A popular convention when naming reducers is to name them after the part of the state they manage, e.g., todosReducer for managing the "todos" part of the state.
 
