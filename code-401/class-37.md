@@ -11,8 +11,11 @@
 
 ### Redux Docs: Using Combined Reducers
 1. `combineReducers` is a utility function to simplify the most common use case when writing ________.
+> Redux reducers
 2. Explain how `combineReducers` assembles the new state tree.
+> `combineReducers` assembles the new state tree by calling each individual reducer with the corresponding part of the state and combining their results into a single state object.
 3. How would you define initial state in an app using `combineReducers`?
+> You can define initial state in an app using combineReducers by providing it as the default value in the reducer functions.
 
 ### Redux Doc: Combined Reducer Syntax
 1. Why will you want to split your reducing functions as your app becomes more complex?
