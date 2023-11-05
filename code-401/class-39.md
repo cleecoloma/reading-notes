@@ -3,8 +3,11 @@
 
 ### Redux Toolkit (RTK)
 1. What concerns are addressed by Redux Toolkit?
+> Redux Toolkit addresses concerns like boilerplate code, complex setup, and performance optimizations in Redux development.
 2. What does `configureStore()` do?
+> `configureStore()` in Redux Toolkit simplifies the creation of a Redux store by providing sensible defaults and built-in middleware configuration.
 3. How would I use `createSlice()`?
+> To use `createSlice()`, you define a slice of your Redux state with reducers and actions in a concise manner, making it easy to manage a portion of the state.
 
 ### MobX
 1. What is Mobx?
