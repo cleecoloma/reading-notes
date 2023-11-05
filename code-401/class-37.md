@@ -3,8 +3,11 @@
 
 ### Multiple Reducers Example
 1. Why create multiple reducers?
+> Create multiple reducers to manage different parts of the application state independently, making code more modular and maintainable.
 2. How would you combine multiple reducers?
+> Combine multiple reducers using the `combineReducers() `utility provided by Redux.
 3. How will you manage state as an immutable object? why?
+> Manage state as an immutable object by returning a new state object in reducers for each state change. This ensures data consistency, easier debugging, and better predictability of application behavior.
 
 ### Redux Docs: Using Combined Reducers
 1. `combineReducers` is a utility function to simplify the most common use case when writing ________.
