@@ -19,6 +19,8 @@
 
 ### Redux Tutorial
 1. What take-away(s) did this tutorial provide?
+> 1. Redux Toolkit is the recommended standard for efficient Redux development.
+> 2. Understanding of Redux fundamentals is really important.
 
 ### Things I want to learn more about.
 
