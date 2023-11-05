@@ -11,6 +11,7 @@
 > 2.  `dispatch(action)` - to dispatch actions that trigger state changes
 > 3. `subscribe(listener)` - to register callback functions for state changes
 4. Explain to a non-technical recruiter what `combineReducers()` does and why it is useful.
+> `combineReducers()` in Redux is a utility function that combines multiple reducer functions into a single reducer. It's useful because it simplifies the management of different parts of the application state and makes the code more organized, helping with modularity and maintainability.
 
 ### Things I want to learn more about.
 
