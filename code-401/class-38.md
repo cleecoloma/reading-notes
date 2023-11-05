@@ -3,8 +3,11 @@
 
 ### async actions
 1. Why use Redux middleware?
+> Use Redux middleware to intercept and handle actions before they reach the reducer, enabling tasks like logging, side effects, and asynchronous operations.
 2. Consider the Redux Async Data Flow Diagram. Describe the flow in your own words.
-How are we accommodating async in our Redux app?
+> In the Redux Async Data Flow, actions trigger the middleware, which can handle asynchronous tasks and then dispatch new actions when complete. Reducers process these actions to update the state.
+3. How are we accommodating async in our Redux app?
+> We accommodate async in our Redux app by using middleware like Redux Thunk to dispatch asynchronous actions, allowing us to fetch data or perform other async operations before updating the state.
 
 ### thunk middleware
 1. Why would you need redux-thunk middleware?
