@@ -11,8 +11,11 @@
 
 ### thunk middleware
 1. Why would you need redux-thunk middleware?
+> Redux Thunk middleware is needed to handle asynchronous actions in Redux.
 2. Redux Thunk middleware allows you to write action creators that return a ____ instead of an action.
+> `function`
 3. Describe how any return value from the inner thunk function will be made available.
+> The return value from the inner thunk function will be made available for further processing by Redux, such as updating the state, after the asynchronous operation is complete.
 
 ### Things I want to learn more about.
 
