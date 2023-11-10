@@ -13,11 +13,11 @@
 
 ### Expo
 1. What solution does expo provide?
-> 
+> Expo provides a set of tools and services to simplify the development of React Native applications, offering features like a development environment, pre-built components, and easy deployment.
 2. Expo tries to manage as much of the complexity of building apps as possible, which is why we call it the ____ workflow.
-> 
+> Expo tries to manage as much of the complexity of building apps as possible, which is why we call it the "developer-friendly" workflow.
 3. What is the difference between React Native and Expo?
-> 
+> React Native is the framework for building mobile apps using JavaScript and React, while Expo is a set of tools and services built on top of React Native to streamline development; using Expo means relying on its managed workflow, which abstracts away some configuration complexities.
 
 ### Expo Snack
 1. Checkout this tool. What does snack allow you to do?
