@@ -21,7 +21,7 @@
 
 ### Expo Snack
 1. Checkout this tool. What does snack allow you to do?
-> 
+> Snack allows you to develop and preview React Native applications directly in your web browser without the need for local setup or installations.
 
 ### Ejecting
 1. What does “eject” mean within the context of Expo?
