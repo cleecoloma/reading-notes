@@ -24,12 +24,12 @@
 > Snack allows you to develop and preview React Native applications directly in your web browser without the need for local setup or installations.
 
 ### Ejecting
-1. What does “eject” mean within the context of Expo?
-> 
+1. What does `eject` mean within the context of Expo?
+> `Eject` in the context of Expo refers to transitioning a project from Expo's managed workflow to the bare workflow, exposing more advanced configuration options.
 2. When should you not eject?
-> 
+> You should avoid ejecting from Expo's managed workflow if you prefer the simplicity and convenience provided by Expo's abstraction of certain development complexities.
 3. Why might you choose to eject?
-> 
+> You might choose to eject from Expo when you require more control over the configuration of your React Native project, access to native modules, or the ability to integrate with native code beyond what Expo's managed workflow allows.
 
 ### Things I want to learn more about.
 
