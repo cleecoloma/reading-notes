@@ -39,6 +39,7 @@
 * [Prompt Engineering](prompt-engineering.md)
 * [Psychological Safety](psychological-safety.md)
 * [Dive Into React](dive-into-react.md)
+* [Ethics-In-Tech](ethics-in-tech.md)
 
 ---
 
