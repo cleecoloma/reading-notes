@@ -1,0 +1,8 @@
+# Ethics In Tech
+## Code 401 - Advanced Software Development in Full-Stack JavaScript
+
+### The code I'm still ashamed of by Bill Sourour
+> I think the article is right about developers needing to be ethical. The quiz part was tricky because there were no clear rules, and it seemed wrong that every answer promoted a particular drug. The sad story of a girl who took the drug and later died makes it all more real. The author quitting their job shows they care about doing the right thing. It's a reminder for developers to think about how their code affects people, especially now that software is part of many aspects of our lives.
+
+### Ethics In Technology
+> I agree with the article talking about the problems self-driving cars face and how we should deal with them. The article says self-driving cars have a tricky issue – deciding who they should protect or harm in accidents they can't avoid. Even though these cars can make accidents less likely, we still need to figure out what to do when tough choices have to be made. The discussion is about whether the car should focus on saving people without picking favorites. The article says it's crucial to teach the computer in self-driving cars about ethics. It also talks about how people sometimes judge human drivers and machines differently. The article says we should carefully think and take responsibility when we program self-driving cars. It knows there are many challenges, like ethics, rules, and getting society ready. Some people wonder if it's fair to expect too much from self-driving cars. The article ends by saying as we get used to self-driving cars, we'll find new ways to control them in our changing world.
